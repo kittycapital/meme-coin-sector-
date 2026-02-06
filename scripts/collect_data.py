@@ -149,38 +149,6 @@ def enrich_with_pair_data(tokens, batch_size=5, delay=1.0):
 
 
 # ============================================================
-# CoinGecko: Trending Coins
-# ============================================================
-def fetch_trending():
-    """CoinGecko 24시간 트렌딩 코인"""
-    print("📡 Fetching CoinGecko trending...")
-    data = fetch_json(f"{CG_BASE}/search/trending")
-    if not data:
-        return []
-    coins = data.get("coins", [])
-    print(f"  → {len(coins)} trending coins")
-    results = []
-    for coin in coins:
-        item = coin.get("item", {})
-        results.append({
-            "id": item.get("id", ""),
-            "name": item.get("name", ""),
-            "symbol": item.get("symbol", ""),
-            "thumb": item.get("thumb", ""),
-            "small": item.get("small", ""),
-            "marketCapRank": item.get("market_cap_rank"),
-            "priceChangePercentage24h": (
-                item.get("data", {}).get("price_change_percentage_24h", {}).get("usd")
-            ),
-            "price": item.get("data", {}).get("price"),
-            "marketCap": item.get("data", {}).get("market_cap"),
-            "totalVolume": item.get("data", {}).get("total_volume"),
-            "sparkline": item.get("data", {}).get("sparkline"),
-        })
-    return results
-
-
-# ============================================================
 # CoinGecko: Meme Coin Category Market Data
 # ============================================================
 def fetch_meme_category_coins():
@@ -259,11 +227,7 @@ def main():
     profiles = fetch_latest_profiles()
     time.sleep(1)
 
-    # 4. CoinGecko - Trending
-    trending = fetch_trending()
-    time.sleep(1)
-
-    # 5. CoinGecko - Meme Category
+    # 4. CoinGecko - Meme Category
     meme_coins = fetch_meme_category_coins()
 
     # Assemble output
@@ -277,7 +241,6 @@ def main():
         "topBoosts": top_boosts,
         "latestBoosts": latest_boosts,
         "latestProfiles": profiles,
-        "trending": trending,
         "memeCoins": meme_coins,
     }
 
@@ -302,7 +265,6 @@ def main():
     print(f"  • 탑 부스트: {len(top_boosts)}개")
     print(f"  • 최신 부스트: {len(latest_boosts)}개")
     print(f"  • 최신 프로필: {len(profiles)}개")
-    print(f"  • 트렌딩: {len(trending)}개")
     print(f"  • 밈코인 시총 TOP: {len(meme_coins)}개")
     print(f"{'='*60}\n")
 
