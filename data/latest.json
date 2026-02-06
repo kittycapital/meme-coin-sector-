@@ -1,11 +1,11 @@
 {
   "meta": {
-    "timestamp": "2026-02-06 11:09:50 KST",
+    "timestamp": "2026-02-06 11:16:14 KST",
     "date": "2026-02-06",
     "chains": [
+      "ethereum",
       "base",
-      "solana",
-      "ethereum"
+      "solana"
     ],
     "sources": [
       "DexScreener",
@@ -20,7 +20,7 @@
       "description": "never streSS",
       "icon": "ea609e7271c11be1ba0011e7d664068e23a5283924c11bb08669cfdd1ddc7bd2",
       "header": "https://cdn.dexscreener.com/cms/images/92aa1b679da884a0bf158056384a1b268e7accfd148d6f46c98d067236ae1070?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ByZBXDDZ1oeK3EDakLqgwWEyYVUZPr8CZwRJ2eYTbYBG?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ByZBXDDZ1oeK3EDakLqgwWEyYVUZPr8CZwRJ2eYTbYBG?timestamp=1770344100000",
       "links": [
         {
           "url": "https://www.stress.fun/"
@@ -34,46 +34,46 @@
       "pairData": {
         "name": "never streSS",
         "symbol": "streSS",
-        "priceUsd": "0.000009794",
+        "priceUsd": "0.00001032",
         "priceChange": {
-          "m5": 0.59,
-          "h1": -10.54,
-          "h6": -14.88,
-          "h24": 2207
+          "m5": 4.95,
+          "h1": -24.8,
+          "h6": 31.48,
+          "h24": 2332
         },
         "volume": {
-          "h24": 238409.27,
-          "h6": 29682.92,
-          "h1": 2823.05,
-          "m5": 8.83
+          "h24": 238505.36,
+          "h6": 28667.03,
+          "h1": 2673.61,
+          "m5": 95.64
         },
         "liquidity": {
-          "usd": 4259.6,
-          "base": 217271653,
-          "quote": 26.8218
+          "usd": 4337.95,
+          "base": 209432091,
+          "quote": 27.829
         },
-        "marketCap": 9794,
-        "fdv": 9794,
+        "marketCap": 10323,
+        "fdv": 10323,
         "dexId": "raydium",
         "pairAddress": "BkRNvV8abDKyNQ9VNeqh1Nmuz8mS88fn84YSsv6w7mVF",
         "pairCreatedAt": 1770314559000,
         "url": "https://dexscreener.com/solana/bkrnvv8abdkynq9vneqh1nmuz8ms88fn84yssv6w7mvf",
         "txns": {
           "m5": {
-            "buys": 1,
-            "sells": 1
+            "buys": 3,
+            "sells": 2
           },
           "h1": {
-            "buys": 228,
-            "sells": 35
+            "buys": 226,
+            "sells": 37
           },
           "h6": {
-            "buys": 779,
-            "sells": 423
+            "buys": 762,
+            "sells": 399
           },
           "h24": {
-            "buys": 2511,
-            "sells": 1676
+            "buys": 2515,
+            "sells": 1678
           }
         }
       }
@@ -84,7 +84,7 @@
       "tokenAddress": "EKwF2HD6X4rHHr4322EJeK9QBGkqhpHZQSanSUmWkecG",
       "icon": "633adb24889d5949fce9ade65ec8cf4b20be56cea6a3fbe50aeb21e1459b533c",
       "header": "https://cdn.dexscreener.com/cms/images/43c2338bef2616dfb72e4ebc2f7ce29a98ab745eaa1d446065322f489f071512?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/EKwF2HD6X4rHHr4322EJeK9QBGkqhpHZQSanSUmWkecG?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/EKwF2HD6X4rHHr4322EJeK9QBGkqhpHZQSanSUmWkecG?timestamp=1770344100000",
       "links": [
         {
           "url": "https://x.com/BigTrout300"
@@ -98,46 +98,46 @@
       "pairData": {
         "name": "The Big Trout",
         "symbol": "BigTrout",
-        "priceUsd": "0.005330",
+        "priceUsd": "0.004792",
         "priceChange": {
-          "m5": 1.45,
-          "h1": -4.52,
-          "h6": 103,
-          "h24": 814
+          "m5": -10.31,
+          "h1": -9.86,
+          "h6": 89.16,
+          "h24": 767
         },
         "volume": {
-          "h24": 11403638.05,
-          "h6": 3245017.93,
-          "h1": 230286.07,
-          "m5": 13137.29
+          "h24": 11421511.03,
+          "h6": 3265839.61,
+          "h1": 205725.87,
+          "m5": 26170.49
         },
         "liquidity": {
-          "usd": 254548.49,
-          "base": 23893368,
-          "quote": 1599.02841
+          "usd": 238588.97,
+          "base": 24828145,
+          "quote": 1539.5502
         },
-        "marketCap": 5090548,
-        "fdv": 5330417,
+        "marketCap": 4577133,
+        "fdv": 4792809,
         "dexId": "pumpswap",
         "pairAddress": "84Q5fsB6dhvsYHqDfkBXDvdfmSiweLeZwGmUtD1fUBAc",
         "pairCreatedAt": 1770243286000,
         "url": "https://dexscreener.com/solana/84q5fsb6dhvsyhqdfkbxdvdfmsiwelezwgmutd1fubac",
         "txns": {
           "m5": {
-            "buys": 60,
-            "sells": 54
+            "buys": 156,
+            "sells": 51
           },
           "h1": {
-            "buys": 1403,
-            "sells": 1013
+            "buys": 1280,
+            "sells": 887
           },
           "h6": {
-            "buys": 15052,
-            "sells": 13109
+            "buys": 15174,
+            "sells": 13091
           },
           "h24": {
-            "buys": 57743,
-            "sells": 48757
+            "buys": 57808,
+            "sells": 48763
           }
         }
       }
@@ -149,7 +149,7 @@
       "description": "Just a long boy in a short world. 🦖",
       "icon": "9a23466d380dacd83871599c57cde2fdc3968a95962ea479517d5adb2ad4d4da",
       "header": "https://cdn.dexscreener.com/cms/images/4e4ad066b2be188912df0db0fd7fee262952dcb940d42e4a29e0ff3d1014e8fa?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://boi.so"
@@ -167,46 +167,46 @@
       "pairData": {
         "name": "LONGBOI",
         "symbol": "BOI",
-        "priceUsd": "0.0001161",
+        "priceUsd": "0.0001160",
         "priceChange": {
-          "m5": -3.71,
-          "h1": -2.2,
-          "h6": 5.51,
+          "m5": 0.13,
+          "h1": -1.02,
+          "h6": 6.06,
           "h24": 163
         },
         "volume": {
-          "h24": 1739293.74,
-          "h6": 22201.53,
-          "h1": 3897.67,
-          "m5": 208.19
+          "h24": 1739524.96,
+          "h6": 21876,
+          "h1": 3889.21,
+          "m5": 89.7
         },
         "liquidity": {
-          "usd": 27584.55,
-          "base": 118106476,
-          "quote": 174.553
+          "usd": 27285.71,
+          "base": 117640394,
+          "quote": 175.2504
         },
-        "marketCap": 116135,
-        "fdv": 116135,
+        "marketCap": 116087,
+        "fdv": 116087,
         "dexId": "pumpswap",
         "pairAddress": "2UjGN6uiFZzgDCxrehj3G2QAesEPwbzzV6foTsKAobNb",
         "pairCreatedAt": 1770264664000,
         "url": "https://dexscreener.com/solana/2ujgn6uifzzgdcxrehj3g2qaesepwbzzv6fotskaobnb",
         "txns": {
           "m5": {
-            "buys": 118,
-            "sells": 69
+            "buys": 138,
+            "sells": 65
           },
           "h1": {
-            "buys": 1814,
-            "sells": 950
+            "buys": 1819,
+            "sells": 944
           },
           "h6": {
-            "buys": 10446,
-            "sells": 5345
+            "buys": 10439,
+            "sells": 5331
           },
           "h24": {
-            "buys": 51040,
-            "sells": 36346
+            "buys": 51222,
+            "sells": 36432
           }
         }
       }
@@ -218,7 +218,7 @@
       "description": "No More War is a statement — not a weapon. A reminder that behind every war headline are real humans, real families, and real losses.",
       "icon": "c3b4d00a17fedff27feaacde687772ec62d0b4e2bbc13603dd5b6dd6b440e38b",
       "header": "https://cdn.dexscreener.com/cms/images/512b370e3c0549c9417b04aece063fbe8d172051e8223b6855a6d7064d5a3e23?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Cs4WbW2rxCDddXTxTEBgutt6rdvRknBuTXAZemvbpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Cs4WbW2rxCDddXTxTEBgutt6rdvRknBuTXAZemvbpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://nomorewar.fun/"
@@ -236,46 +236,46 @@
       "pairData": {
         "name": "NO MORE WAR",
         "symbol": "NOMOREWAR",
-        "priceUsd": "0.00001858",
+        "priceUsd": "0.00001306",
         "priceChange": {
-          "m5": -6.99,
-          "h1": 45.52,
-          "h6": 75.19,
-          "h24": 166
+          "m5": -24.27,
+          "h1": 0.74,
+          "h6": 19.92,
+          "h24": 87.01
         },
         "volume": {
-          "h24": 1147310.3,
-          "h6": 4326.94,
-          "h1": 1728.5,
-          "m5": 222.04
+          "h24": 1149056.36,
+          "h6": 6021.07,
+          "h1": 3435.31,
+          "m5": 1528.1
         },
         "liquidity": {
-          "usd": 11580.28,
-          "base": 310546887,
-          "quote": 72.9951
+          "usd": 9616.99,
+          "base": 366198162,
+          "quote": 61.9063
         },
-        "marketCap": 18578,
-        "fdv": 18578,
+        "marketCap": 13064,
+        "fdv": 13064,
         "dexId": "pumpswap",
         "pairAddress": "3X3bEAWzX5nXgEN7HLWZapeUZoGS5MYDezRdpNuPZDxc",
         "pairCreatedAt": 1770176462000,
         "url": "https://dexscreener.com/solana/3x3beawzx5nxgen7hlwzapeuzogs5mydezrdpnupzdxc",
         "txns": {
           "m5": {
-            "buys": 1,
-            "sells": 5
+            "buys": 18,
+            "sells": 19
           },
           "h1": {
-            "buys": 53,
-            "sells": 32
+            "buys": 70,
+            "sells": 57
           },
           "h6": {
-            "buys": 163,
-            "sells": 101
+            "buys": 183,
+            "sells": 126
           },
           "h24": {
-            "buys": 23199,
-            "sells": 20276
+            "buys": 23220,
+            "sells": 20301
           }
         }
       }
@@ -287,7 +287,7 @@
       "description": "James Edward Harden Jr. isn't just a player; he is an offensive system. From the step-back three to becoming an MVP, he redefined the game.",
       "icon": "5bde67c8ccd992eea70bb9778ff1dcd11162ddd4dc697917cfe775c19759223a",
       "header": "https://cdn.dexscreener.com/cms/images/77713c14921587392907de5ec6ef8bf542befb406bb5b6f2bc747a11eb10ebf7?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GBKRCrH5c6PwA8mjoXBJApv793WuqAFdqEaAxMudpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GBKRCrH5c6PwA8mjoXBJApv793WuqAFdqEaAxMudpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://jamesharden.site/"
@@ -311,12 +311,12 @@
         "priceUsd": "0.000002954",
         "priceChange": {
           "h1": 4.2,
-          "h6": -17.86,
+          "h6": -18.51,
           "h24": -92
         },
         "volume": {
           "h24": 713528.11,
-          "h6": 388.07,
+          "h6": 348.19,
           "h1": 0.05,
           "m5": 0
         },
@@ -341,7 +341,7 @@
             "sells": 1
           },
           "h6": {
-            "buys": 6,
+            "buys": 5,
             "sells": 20
           },
           "h24": {
@@ -358,7 +358,7 @@
       "description": "Stable coin.\n\nNot the official USDT Tether token. ",
       "icon": "f0494836746125b675590d4cb762ed832ccfc3624f94978560f4453bf999e7f4",
       "header": "https://cdn.dexscreener.com/cms/images/0825e95ad3baceda8865ee335994a4f556134875e0777f3c8641b126f98be559?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HKFNvHj7Pzx23esaR2LiP2WQtm69ZthdUf5vC9Lzpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HKFNvHj7Pzx23esaR2LiP2WQtm69ZthdUf5vC9Lzpump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -369,46 +369,46 @@
       "pairData": {
         "name": "Tether",
         "symbol": "USDT",
-        "priceUsd": "0.000008269",
+        "priceUsd": "0.000008431",
         "priceChange": {
-          "m5": -0.45,
-          "h1": 103,
-          "h6": -86.45,
-          "h24": -76.7
+          "m5": 2.25,
+          "h1": 116,
+          "h6": -84.26,
+          "h24": -76.25
         },
         "volume": {
-          "h24": 201296.46,
-          "h6": 18420.01,
-          "h1": 433.54,
-          "m5": 0
+          "h24": 201392.21,
+          "h6": 17764.2,
+          "h1": 526.78,
+          "m5": 48.97
         },
         "liquidity": {
-          "usd": 7382.26,
-          "base": 605205350,
-          "quote": 29.8877
+          "usd": 7371.66,
+          "base": 592746847,
+          "quote": 30.5162
         },
-        "marketCap": 8268,
-        "fdv": 8268,
+        "marketCap": 8430,
+        "fdv": 8430,
         "dexId": "pumpswap",
         "pairAddress": "2h4xd143kJvvZCF4HhTht2BkPGrBXjLFG3ZRbhd7mFdS",
         "pairCreatedAt": 1770309942000,
         "url": "https://dexscreener.com/solana/2h4xd143kjvvzcf4hhtht2bkpgrbxjlfg3zrbhd7mfds",
         "txns": {
           "m5": {
-            "buys": 234,
+            "buys": 125,
             "sells": 0
           },
           "h1": {
-            "buys": 631,
+            "buys": 828,
             "sells": 9
           },
           "h6": {
-            "buys": 916,
-            "sells": 363
+            "buys": 1105,
+            "sells": 347
           },
           "h24": {
-            "buys": 9582,
-            "sells": 6966
+            "buys": 9779,
+            "sells": 6967
           }
         }
       }
@@ -420,51 +420,51 @@
       "description": "Welcome to Great Crypto Crash — the only token born from chaos.\nWhen markets tremble and charts bleed red, TGCC rises as the ultimate deflationary crash-coin, built for traders who profit from panic and volatility.",
       "icon": "9667e939b2a18ff2d9a24519ee3b7346c45241f10a020c72f344e52ecc153cf4",
       "header": "https://cdn.dexscreener.com/cms/images/5797bfb25219a40b4c9531e5cff4f66464ea9eaf2205614fb4ca52f228729f22?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F2qZh2XEwr3tQQ3ssw49EBuhAn4ER435cvRtbgRUmoon?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F2qZh2XEwr3tQQ3ssw49EBuhAn4ER435cvRtbgRUmoon?timestamp=1770344100000",
       "totalAmount": 500,
       "pairData": {
         "name": "GreatCryptoCrash",
         "symbol": "GCC",
-        "priceUsd": "0.0001963",
+        "priceUsd": "0.0001969",
         "priceChange": {
-          "m5": 0.58,
-          "h1": 1.33,
-          "h6": 473,
-          "h24": 473
+          "m5": -0.1,
+          "h1": 6.55,
+          "h6": 475,
+          "h24": 475
         },
         "volume": {
-          "h24": 137253.16,
-          "h6": 137253.16,
-          "h1": 16496.06,
-          "m5": 618.05
+          "h24": 137791.86,
+          "h6": 137791.86,
+          "h1": 15233.78,
+          "m5": 422.94
         },
         "liquidity": {
-          "usd": 32201.45,
-          "base": 81689534,
-          "quote": 203.3926
+          "usd": 31961.58,
+          "base": 80816960,
+          "quote": 205.5713
         },
-        "marketCap": 195709,
-        "fdv": 195709,
+        "marketCap": 196328,
+        "fdv": 196328,
         "dexId": "meteora",
         "pairAddress": "83cDCf2A6Wp7R1EKuce3NJWKWKj7dhrfMRfRUHpUb4AL",
         "pairCreatedAt": 1770328251000,
         "url": "https://dexscreener.com/solana/83cdcf2a6wp7r1ekuce3njwkwkj7dhrfmrfruhpub4al",
         "txns": {
           "m5": {
-            "buys": 607,
-            "sells": 61
+            "buys": 404,
+            "sells": 46
           },
           "h1": {
-            "buys": 5287,
-            "sells": 891
+            "buys": 5249,
+            "sells": 857
           },
           "h6": {
-            "buys": 11846,
-            "sells": 2733
+            "buys": 12357,
+            "sells": 2795
           },
           "h24": {
-            "buys": 11846,
-            "sells": 2733
+            "buys": 12357,
+            "sells": 2795
           }
         }
       }
@@ -476,7 +476,7 @@
       "description": "Born from the depths of 4chan in 2018, the Doomer became the face of millennial despair and impending DOOM",
       "icon": "d13197d46037f25553e6bbaa07a5b99b7ce4a41fc3417d9c2e330bce68e069a0",
       "header": "https://cdn.dexscreener.com/cms/images/508c74b30e62ee4f2442d6777bdbb8deca9e91d9a726944846afcd7912ff6cf9?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8DcDpXBXBkNwe9kU6HqyJ8xVLiahzcLxvcYuTBL24fto?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8DcDpXBXBkNwe9kU6HqyJ8xVLiahzcLxvcYuTBL24fto?timestamp=1770344100000",
       "links": [
         {
           "url": "https://doomerog.fun/"
@@ -501,46 +501,46 @@
       "pairData": {
         "name": "Doomer",
         "symbol": "DOOM",
-        "priceUsd": "0.0001581",
+        "priceUsd": "0.0001592",
         "priceChange": {
-          "m5": -10.36,
-          "h1": 39.36,
-          "h6": 185,
-          "h24": 185
+          "m5": 3.52,
+          "h1": 26.76,
+          "h6": 186,
+          "h24": 186
         },
         "volume": {
-          "h24": 1047304.72,
-          "h6": 1047304.72,
-          "h1": 46107.03,
-          "m5": 2737.88
+          "h24": 1051020.11,
+          "h6": 1051020.11,
+          "h1": 44790.62,
+          "m5": 2816.78
         },
         "liquidity": {
-          "usd": 33639.93,
-          "base": 105778192,
-          "quote": 212.6246
+          "usd": 33364.44,
+          "base": 104706904,
+          "quote": 214.898
         },
-        "marketCap": 158128,
-        "fdv": 158128,
+        "marketCap": 159205,
+        "fdv": 159205,
         "dexId": "pumpswap",
         "pairAddress": "2945bBNVMzMHEyvZ1X18uk5KJyM9Kke2smHjN5QRoitH",
         "pairCreatedAt": 1770329711000,
         "url": "https://dexscreener.com/solana/2945bbnvmzmheyvz1x18uk5kjym9kke2smhjn5qroith",
         "txns": {
           "m5": {
-            "buys": 64,
-            "sells": 50
+            "buys": 39,
+            "sells": 28
           },
           "h1": {
-            "buys": 935,
-            "sells": 833
+            "buys": 942,
+            "sells": 817
           },
           "h6": {
-            "buys": 12734,
-            "sells": 8770
+            "buys": 12797,
+            "sells": 8813
           },
           "h24": {
-            "buys": 12734,
-            "sells": 8770
+            "buys": 12797,
+            "sells": 8813
           }
         }
       }
@@ -552,7 +552,7 @@
       "description": "Elon Musk is combining Tesla, Xai, Space X and Twitter all into one ticker $X",
       "icon": "c272186c7cc112164e8e9237cb63325e9107154ec7a3268189e3adaad2e34d93",
       "header": "https://cdn.dexscreener.com/cms/images/4babbaa7ab50d28ddc5e147732f1a3a051171eb077fa6cab364ee07d0d34e1d8?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9XeizW4yMfUqfGmqF3niSL9zkWwGJQ8EY9EQopWQmM7S?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9XeizW4yMfUqfGmqF3niSL9zkWwGJQ8EY9EQopWQmM7S?timestamp=1770344100000",
       "links": [
         {
           "url": "https://xmeme.lol/"
@@ -566,46 +566,46 @@
       "pairData": {
         "name": "X",
         "symbol": "X",
-        "priceUsd": "0.0003572",
+        "priceUsd": "0.0004138",
         "priceChange": {
-          "m5": 2.85,
-          "h1": 25.07,
-          "h6": -31.58,
-          "h24": -58.72
+          "m5": 4.91,
+          "h1": 51.04,
+          "h6": -10.39,
+          "h24": -55.27
         },
         "volume": {
-          "h24": 1985644.71,
-          "h6": 310500.81,
-          "h1": 35566.52,
-          "m5": 722.23
+          "h24": 1983816.96,
+          "h6": 310596.93,
+          "h1": 47481.4,
+          "m5": 10754.83
         },
         "liquidity": {
-          "usd": 56987.04,
-          "base": 79786953,
-          "quote": 358.4036
+          "usd": 60708.04,
+          "base": 73239495,
+          "quote": 390.781
         },
-        "marketCap": 352614,
-        "fdv": 352614,
+        "marketCap": 408455,
+        "fdv": 408455,
         "dexId": "pumpswap",
         "pairAddress": "FxFAPJFV8ouw4nVGUa1V5KinS5KDPUojen1oM5y2d6V7",
         "pairCreatedAt": 1770183736000,
         "url": "https://dexscreener.com/solana/fxfapjfv8ouw4nvgua1v5kins5kdpuojen1om5y2d6v7",
         "txns": {
           "m5": {
-            "buys": 18,
-            "sells": 5
+            "buys": 46,
+            "sells": 38
           },
           "h1": {
-            "buys": 199,
-            "sells": 187
+            "buys": 240,
+            "sells": 219
           },
           "h6": {
-            "buys": 2147,
-            "sells": 2037
+            "buys": 2088,
+            "sells": 2043
           },
           "h24": {
-            "buys": 12246,
-            "sells": 12683
+            "buys": 12238,
+            "sells": 12630
           }
         }
       }
@@ -617,7 +617,7 @@
       "description": "Petah , the anime character that has the same characteristics as Peter griffin is going viral.",
       "icon": "6c3c2a230cfe80e123a7d42c354e752604346f85af2b1f925b174d53f33c5ecf",
       "header": "https://cdn.dexscreener.com/cms/images/eb01d7f4f97d9a45633b82325665b793f3a5c96063e511050c5d24da461e6d7a?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GDmSzyg3F3CqgusT4CcxhjaKKfaucN98L4EUePeqpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GDmSzyg3F3CqgusT4CcxhjaKKfaucN98L4EUePeqpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://petah.fun/"
@@ -635,46 +635,46 @@
       "pairData": {
         "name": "ピータさん",
         "symbol": "PETAH",
-        "priceUsd": "0.0008388",
+        "priceUsd": "0.0009927",
         "priceChange": {
-          "m5": 1.51,
-          "h1": 21.74,
-          "h6": -22.13,
-          "h24": 84.44
+          "m5": 15.33,
+          "h1": 34.46,
+          "h6": -9.93,
+          "h24": 114
         },
         "volume": {
-          "h24": 2581900.2,
-          "h6": 500762.66,
-          "h1": 52373.28,
-          "m5": 4850.22
+          "h24": 2585809.3,
+          "h6": 390236.91,
+          "h1": 57331.95,
+          "m5": 6878.09
         },
         "liquidity": {
-          "usd": 85763.39,
-          "base": 50883306,
-          "quote": 541.6425
+          "usd": 92222.01,
+          "base": 46228453,
+          "quote": 596.3937
         },
-        "marketCap": 838796,
-        "fdv": 838796,
+        "marketCap": 992759,
+        "fdv": 992759,
         "dexId": "pumpswap",
         "pairAddress": "AzwL8mictZsmgkDhAB82fatdHu5bBNS2BCfemvqHmRAM",
         "pairCreatedAt": 1770170857000,
         "url": "https://dexscreener.com/solana/azwl8mictzsmgkdhab82fatdhu5bbns2bcfemvqhmram",
         "txns": {
           "m5": {
-            "buys": 22,
-            "sells": 35
+            "buys": 28,
+            "sells": 38
           },
           "h1": {
-            "buys": 306,
-            "sells": 297
+            "buys": 312,
+            "sells": 316
           },
           "h6": {
-            "buys": 2488,
-            "sells": 2158
+            "buys": 2193,
+            "sells": 1943
           },
           "h24": {
-            "buys": 12138,
-            "sells": 10829
+            "buys": 12147,
+            "sells": 10850
           }
         }
       }
@@ -686,7 +686,7 @@
       "description": "ALL YOU NEED TO DO IS SURVIVE",
       "icon": "7f7d70c6f2c0bad12ee842fb26ef188538bb1101453ed69d6865dc1a10e568c3",
       "header": "https://cdn.dexscreener.com/cms/images/791b9d5b73cadc92e3af0f3feb0cbd1900d1d85b19660886e5bcbe2b3aeb629e?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CQV6GDSMo9vP9f7evJq4mPGJAphx5ckP9D2xmVE9ddj1?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CQV6GDSMo9vP9f7evJq4mPGJAphx5ckP9D2xmVE9ddj1?timestamp=1770344100000",
       "links": [
         {
           "url": "https://surviveonsol.xyz/"
@@ -704,26 +704,26 @@
       "pairData": {
         "name": "ALL YOU NEED TO DO IS SURVIVE",
         "symbol": "SURVIVE",
-        "priceUsd": "0.000004335",
+        "priceUsd": "0.000004274",
         "priceChange": {
-          "m5": -2.81,
-          "h1": -25.94,
-          "h6": -55.75,
-          "h24": -88.64
+          "m5": -1.41,
+          "h1": -23.09,
+          "h6": -57.58,
+          "h24": -88.8
         },
         "volume": {
-          "h24": 399589.65,
-          "h6": 4522.22,
-          "h1": 573.6,
-          "m5": 49.07
+          "h24": 399593.87,
+          "h6": 4453.15,
+          "h1": 413.31,
+          "m5": 4.21
         },
         "liquidity": {
-          "usd": 5074.79,
-          "base": 585114023,
-          "quote": 32.04291
+          "usd": 5002.78,
+          "base": 585025990,
+          "quote": 32.04774
         },
-        "marketCap": 4335,
-        "fdv": 4335,
+        "marketCap": 4274,
+        "fdv": 4274,
         "dexId": "pumpswap",
         "pairAddress": "G8BnPznc3NqMybLBaScNubzn7WML9VEK2hRiRcbuQK8M",
         "pairCreatedAt": 1770263553000,
@@ -731,19 +731,19 @@
         "txns": {
           "m5": {
             "buys": 1,
-            "sells": 2
+            "sells": 1
           },
           "h1": {
-            "buys": 3,
+            "buys": 4,
             "sells": 16
           },
           "h6": {
             "buys": 105,
-            "sells": 110
+            "sells": 109
           },
           "h24": {
-            "buys": 10227,
-            "sells": 5370
+            "buys": 10228,
+            "sells": 5371
           }
         }
       }
@@ -755,7 +755,7 @@
       "description": "$HAPPY farmed me.\n$SAD farmed me.\nSo I became $MAD.",
       "icon": "fe40b5b45fba5474c9255d37f76846b0e0e8aee5436a483d8f8df0ea234fd99b",
       "header": "https://cdn.dexscreener.com/cms/images/d0bec669485950eb1e855d68468ff6a7b914d6bf187fb5697f79adfcebeaab4a?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fa7ZE9nCEYnrHsnoeHuhEExJpchtrBtKXnWe6CgHpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fa7ZE9nCEYnrHsnoeHuhEExJpchtrBtKXnWe6CgHpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://mad-coin.vercel.app/"
@@ -773,22 +773,22 @@
       "pairData": {
         "name": "Mad Coin",
         "symbol": "$MAD",
-        "priceUsd": "0.000009725",
+        "priceUsd": "0.000008537",
         "priceChange": {
-          "m5": -0.58,
-          "h1": 29.15,
-          "h6": 11.14,
-          "h24": 265
+          "m5": -12.21,
+          "h1": 13.38,
+          "h6": 3.04,
+          "h24": 221
         },
         "volume": {
-          "h24": 97265.87,
-          "h6": 8970.06,
-          "h1": 2656.12,
-          "m5": 8.92
+          "h24": 97535.33,
+          "h6": 7366.2,
+          "h1": 2925.58,
+          "m5": 269.46
         },
         "liquidity": {},
-        "marketCap": 9725.42,
-        "fdv": 9725.42,
+        "marketCap": 8537.57,
+        "fdv": 8537.57,
         "dexId": "pumpfun",
         "pairAddress": "9TAQ9df5kMfDVsDWQuQXM8YsTzKG5h36yVugk8gRzcLZ",
         "pairCreatedAt": 1770258444000,
@@ -796,19 +796,19 @@
         "txns": {
           "m5": {
             "buys": 0,
-            "sells": 1
+            "sells": 6
           },
           "h1": {
             "buys": 52,
-            "sells": 29
+            "sells": 35
           },
           "h6": {
-            "buys": 163,
-            "sells": 123
+            "buys": 137,
+            "sells": 107
           },
           "h24": {
             "buys": 1571,
-            "sells": 1137
+            "sells": 1143
           }
         }
       }
@@ -820,7 +820,7 @@
       "description": "Whites are the becoming the new minority. It’s time we all UNITE and celebrate White History Month together. This meme coin can change the world and give the whites back their voices.",
       "icon": "f79e0f07f23a6af856fd4632411e961b0694f5ce180eaf6239de5f19913e7954",
       "header": "https://cdn.dexscreener.com/cms/images/47d16d9a2229ed2021256992e7a1400ab83c0610c09d5190c3a7cb987786050a?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2eMYCijQY4ZMvb3VBKX2NQ3jyYAK7zYV6YGzKZStpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2eMYCijQY4ZMvb3VBKX2NQ3jyYAK7zYV6YGzKZStpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://www.thewhitehistorymonth.com/"
@@ -838,46 +838,46 @@
       "pairData": {
         "name": "White History Month",
         "symbol": "WHM",
-        "priceUsd": "0.00006642",
+        "priceUsd": "0.00006357",
         "priceChange": {
-          "m5": -0.04,
-          "h1": 1.24,
-          "h6": -20.54,
-          "h24": 4.46
+          "m5": -3.9,
+          "h1": -5.07,
+          "h6": -21.53,
+          "h24": -0.03
         },
         "volume": {
-          "h24": 40082.34,
-          "h6": 4863.58,
-          "h1": 376.91,
-          "m5": 16.77
+          "h24": 40285.06,
+          "h6": 4796.62,
+          "h1": 538.13,
+          "m5": 86.25
         },
         "liquidity": {
-          "usd": 20765.44,
-          "base": 155426171,
-          "quote": 131.1846
+          "usd": 20092.4,
+          "base": 157739525,
+          "quote": 129.2659
         },
-        "marketCap": 66424,
-        "fdv": 66424,
+        "marketCap": 63569,
+        "fdv": 63569,
         "dexId": "pumpswap",
         "pairAddress": "5TbBA7sggXTeoPdhsgeEzCkDqQVmpnPkFdUe9K7fEzPk",
         "pairCreatedAt": 1767984108000,
         "url": "https://dexscreener.com/solana/5tbba7sggxteopdhsgeezckdqqvmpnpkfdue9k7fezpk",
         "txns": {
           "m5": {
-            "buys": 1,
-            "sells": 1
+            "buys": 0,
+            "sells": 2
           },
           "h1": {
             "buys": 9,
-            "sells": 9
+            "sells": 12
           },
           "h6": {
-            "buys": 81,
-            "sells": 74
+            "buys": 82,
+            "sells": 73
           },
           "h24": {
-            "buys": 567,
-            "sells": 1879
+            "buys": 569,
+            "sells": 1882
           }
         }
       }
@@ -889,7 +889,7 @@
       "description": "Born from ancient cycles and untamed momentum. Fire Horse energy means speed, independence, and unstoppable force. No brakes, no reins — just pure forward motion. Run with the fire.",
       "icon": "0ce2f3685975ec99983b0858f972a2732912af3d6f17c0bb2cd209560de8087b",
       "header": "https://cdn.dexscreener.com/cms/images/6fd5784b623b8f64b80781a6b4ed21ec767dfbfa86e61b03f6e8c5efb24ff44c?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DMYNp65mub3i7LRpBdB66CgBAceLcQnv4gsWeCi6pump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DMYNp65mub3i7LRpBdB66CgBAceLcQnv4gsWeCi6pump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://bingwucoin.xyz/"
@@ -922,46 +922,46 @@
       "pairData": {
         "name": "bǐngwǔ",
         "symbol": "丙午",
-        "priceUsd": "0.001141",
+        "priceUsd": "0.001171",
         "priceChange": {
-          "m5": -0.45,
-          "h1": 3.5,
-          "h6": 0.55,
-          "h24": -10.74
+          "m5": 1.92,
+          "h1": 7.56,
+          "h6": -0.71,
+          "h24": -5.11
         },
         "volume": {
-          "h24": 231596.91,
-          "h6": 67822.59,
-          "h1": 9568.84,
-          "m5": 12.81
+          "h24": 232763.73,
+          "h6": 68459.75,
+          "h1": 10844.52,
+          "m5": 2402.61
         },
         "liquidity": {
-          "usd": 107105.68,
-          "base": 46689107,
-          "quote": 676.5071
+          "usd": 107286.12,
+          "base": 45601289,
+          "quote": 692.7087
         },
-        "marketCap": 1141488,
-        "fdv": 1141488,
+        "marketCap": 1170999,
+        "fdv": 1170999,
         "dexId": "pumpswap",
         "pairAddress": "2Y8QhdP4Zox3mTKiJNpCQiFqUncHDE69LKZnTyvFjeqG",
         "pairCreatedAt": 1768571993000,
         "url": "https://dexscreener.com/solana/2y8qhdp4zox3mtkijnpcqifqunchde69lkzntyvfjeqg",
         "txns": {
           "m5": {
-            "buys": 29,
-            "sells": 112
+            "buys": 32,
+            "sells": 48
           },
           "h1": {
-            "buys": 463,
-            "sells": 809
+            "buys": 471,
+            "sells": 886
           },
           "h6": {
-            "buys": 4371,
-            "sells": 3916
+            "buys": 4425,
+            "sells": 3817
           },
           "h24": {
-            "buys": 25631,
-            "sells": 23761
+            "buys": 25494,
+            "sells": 23827
           }
         }
       }
@@ -973,7 +973,7 @@
       "description": "When the times are hard, everyone returns to their colony.",
       "icon": "c35402249d7b050ddee27344477737c25fc098a1cf3c39fbe1d2880d2a190864",
       "header": "https://cdn.dexscreener.com/cms/images/d4953fae2e81f49bcf22fae18260c8819677cbde9280063abd91bd1ff4a48182?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FR51dEo8YxTfuYidzMhaQ9UfkRbpF6xDmSVKR1cfpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FR51dEo8YxTfuYidzMhaQ9UfkRbpF6xDmSVKR1cfpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://www.thereturn.fun/"
@@ -987,46 +987,46 @@
       "pairData": {
         "name": "Return to the Colony",
         "symbol": "RETURN",
-        "priceUsd": "0.0001948",
+        "priceUsd": "0.0002104",
         "priceChange": {
-          "m5": -8.13,
-          "h1": -11.76,
-          "h6": 488,
-          "h24": 488
+          "m5": 15.07,
+          "h1": -5.42,
+          "h6": 535,
+          "h24": 535
         },
         "volume": {
-          "h24": 1854494.55,
-          "h6": 1854494.55,
-          "h1": 110135.67,
-          "m5": 5368.63
+          "h24": 1863749.96,
+          "h6": 1863749.96,
+          "h1": 113032.59,
+          "m5": 5766.35
         },
         "liquidity": {
-          "usd": 36592.29,
-          "base": 93749421,
-          "quote": 230.4391
+          "usd": 37604.9,
+          "base": 89206952,
+          "quote": 242.4221
         },
-        "marketCap": 193487,
-        "fdv": 193487,
+        "marketCap": 209022,
+        "fdv": 209022,
         "dexId": "pumpswap",
         "pairAddress": "4aYdZ7QsnKsketMm3yEoKYddYRDGgCwCeYTJbQUtsRyK",
         "pairCreatedAt": 1770323228000,
         "url": "https://dexscreener.com/solana/4aydz7qsnksketmm3yeokyddyrdggcwceytjbqutsryk",
         "txns": {
           "m5": {
-            "buys": 43,
-            "sells": 38
+            "buys": 34,
+            "sells": 32
           },
           "h1": {
-            "buys": 1039,
-            "sells": 673
+            "buys": 1031,
+            "sells": 671
           },
           "h6": {
-            "buys": 19754,
-            "sells": 14821
+            "buys": 19832,
+            "sells": 14868
           },
           "h24": {
-            "buys": 19754,
-            "sells": 14821
+            "buys": 19832,
+            "sells": 14868
           }
         }
       }
@@ -1040,7 +1040,7 @@
       "description": "How OGs Persist Everytime: HOPE.",
       "icon": "3f5d2bf6e3142dcc44f39c6863c2f601547dc3abb6dfed6afbf2f5320e7c110b",
       "header": "https://cdn.dexscreener.com/cms/images/397281da8acf21003a46814ee2b28d311c9a482a9baf6b7047e15a1d525050b0?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FbpfohVBxhkrQ65UL3DgYVSU4czLDobDmwFVTecSpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FbpfohVBxhkrQ65UL3DgYVSU4czLDobDmwFVTecSpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://hopecoinpf.fun"
@@ -1050,47 +1050,47 @@
           "url": "https://x.com/HOPE335391"
         }
       ],
-      "totalAmount": 10,
+      "totalAmount": 20,
       "amount": 10,
       "pairData": {
         "name": "How OGs Persist Everytime",
         "symbol": "HOPE",
-        "priceUsd": "0.000009169",
+        "priceUsd": "0.000007906",
         "priceChange": {
-          "m5": -3.34,
-          "h1": 113,
-          "h6": 113,
-          "h24": 113
+          "m5": -21.04,
+          "h1": 83.8,
+          "h6": 83.8,
+          "h24": 83.8
         },
         "volume": {
-          "h24": 43545.03,
-          "h6": 43545.03,
-          "h1": 43545.03,
-          "m5": 710.68
+          "h24": 44867.27,
+          "h6": 44867.27,
+          "h1": 44867.27,
+          "m5": 1043.43
         },
         "liquidity": {},
-        "marketCap": 9169.21,
-        "fdv": 9169.21,
+        "marketCap": 7906.29,
+        "fdv": 7906.29,
         "dexId": "pumpfun",
         "pairAddress": "GCFWLnHNw6hEMU6zJjdrtunLSKfaDXXqYS6gHnSMMncy",
         "pairCreatedAt": 1770341267000,
         "url": "https://dexscreener.com/solana/gcfwlnhnw6hemu6zjjdrtunlskfadxxqys6ghnsmmncy",
         "txns": {
           "m5": {
-            "buys": 15,
-            "sells": 16
+            "buys": 21,
+            "sells": 24
           },
           "h1": {
-            "buys": 888,
-            "sells": 515
+            "buys": 915,
+            "sells": 541
           },
           "h6": {
-            "buys": 888,
-            "sells": 515
+            "buys": 915,
+            "sells": 541
           },
           "h24": {
-            "buys": 888,
-            "sells": 515
+            "buys": 915,
+            "sells": 541
           }
         }
       }
@@ -1102,7 +1102,7 @@
       "description": "From the lightless depths, the $WhiteTrout rise beside the $WhiteWhale, United, they descend toward the deepest reaches of the sea.",
       "icon": "d137102b9d9c2aec1d1022cdad0617b44b50c3829dfe27852b044958c0147eaf",
       "header": "https://cdn.dexscreener.com/cms/images/452b537191bdd406ac1b8238abceaa664af0bac02f0d640a3ce8ab447789e4c3?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F1hA7MtnyRkwGvvXuuziAZBDCFKexfshLe7xQrwRpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F1hA7MtnyRkwGvvXuuziAZBDCFKexfshLe7xQrwRpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://thewhitetrout.xyz/"
@@ -1117,42 +1117,42 @@
       "pairData": {
         "name": "The White Trout",
         "symbol": "WhiteTrout",
-        "priceUsd": "0.00001395",
+        "priceUsd": "0.00001716",
         "priceChange": {
-          "m5": -35.32,
-          "h1": 490,
-          "h6": 490,
-          "h24": 490
+          "m5": 23.62,
+          "h1": 626,
+          "h6": 626,
+          "h24": 626
         },
         "volume": {
-          "h24": 37453.53,
-          "h6": 37453.53,
-          "h1": 37453.53,
-          "m5": 5451.79
+          "h24": 42400.31,
+          "h6": 42400.31,
+          "h1": 42400.31,
+          "m5": 3465.34
         },
         "liquidity": {},
-        "marketCap": 13950.08,
-        "fdv": 13950.08,
+        "marketCap": 17163.08,
+        "fdv": 17163.08,
         "dexId": "pumpfun",
         "pairAddress": "9UZLapij1xKqqSb2on9HGHM4PrtPsKHxvmSV7w2hkb75",
         "pairCreatedAt": 1770340805000,
         "url": "https://dexscreener.com/solana/9uzlapij1xkqqsb2on9hghm4prtpskhxvmsv7w2hkb75",
         "txns": {
           "m5": {
-            "buys": 189,
-            "sells": 117
+            "buys": 45,
+            "sells": 34
           },
           "h1": {
-            "buys": 850,
-            "sells": 477
+            "buys": 917,
+            "sells": 541
           },
           "h6": {
-            "buys": 850,
-            "sells": 477
+            "buys": 917,
+            "sells": 541
           },
           "h24": {
-            "buys": 850,
-            "sells": 477
+            "buys": 917,
+            "sells": 541
           }
         }
       }
@@ -1164,7 +1164,7 @@
       "description": "This was the beginning of the end",
       "icon": "c6e4e55bb14db7d39a74dfbda4d7b1907463e1ff5e1eb8ce73e372bffd96586a",
       "header": "https://cdn.dexscreener.com/cms/images/bf6bbc720a7d2bd0121cb4c4c3d5ab729a27d6be3630af10d48704627cd54f95?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BFLLd3sNoNKtM9sUtyJFoUNY315q2jYgPhwTVCfhpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BFLLd3sNoNKtM9sUtyJFoUNY315q2jYgPhwTVCfhpump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -1176,46 +1176,46 @@
       "pairData": {
         "name": "Interstellar",
         "symbol": "COOPER",
-        "priceUsd": "0.000005188",
+        "priceUsd": "0.000005084",
         "priceChange": {
-          "m5": -22.53,
-          "h1": 37.03,
-          "h6": 29.01,
-          "h24": 37.89
+          "m5": 0.85,
+          "h1": 34.29,
+          "h6": 26.42,
+          "h24": 35.13
         },
         "volume": {
-          "h24": 6803.06,
-          "h6": 4467.71,
-          "h1": 3566.71,
-          "m5": 369.69
+          "h24": 6809.73,
+          "h6": 4474.38,
+          "h1": 3573.38,
+          "m5": 1.56
         },
         "liquidity": {
-          "usd": 5524.26,
-          "base": 535840393,
-          "quote": 34.5366
+          "usd": 5457.56,
+          "base": 536545834,
+          "quote": 34.4912
         },
-        "marketCap": 5187,
-        "fdv": 5187,
+        "marketCap": 5083,
+        "fdv": 5083,
         "dexId": "pumpswap",
         "pairAddress": "32BaxVViJRRHWDc9fqHxQhkog9gSyaKm6YxXHZdztk1i",
         "pairCreatedAt": 1763813104000,
         "url": "https://dexscreener.com/solana/32baxvvijrrhwdc9fqhxqhkog9gsyakm6yxxhzdztk1i",
         "txns": {
           "m5": {
-            "buys": 0,
-            "sells": 2
+            "buys": 1,
+            "sells": 0
           },
           "h1": {
-            "buys": 52,
-            "sells": 23
+            "buys": 53,
+            "sells": 24
           },
           "h6": {
-            "buys": 66,
-            "sells": 27
+            "buys": 67,
+            "sells": 28
           },
           "h24": {
-            "buys": 82,
-            "sells": 39
+            "buys": 83,
+            "sells": 40
           }
         }
       }
@@ -1227,7 +1227,7 @@
       "description": "A horse was bought using SOL and the co-founders of Solana decided to name it SOLBISCUIT",
       "icon": "278b9c54982f4f27ed8c251fca7621aa93b697481cf82d3454030d39fb821e57",
       "header": "https://cdn.dexscreener.com/cms/images/ee4de6ee4ec1353d882c170559c57e08a86c229791b51f83942ddd1c295d5d1f?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/J3mTHLJ3GMcz9ycfvUji5HzeuTvmUQjQSdzChsS5pump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/J3mTHLJ3GMcz9ycfvUji5HzeuTvmUQjQSdzChsS5pump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://solbiscuit.vip/"
@@ -1246,46 +1246,46 @@
       "pairData": {
         "name": "Solana Horse",
         "symbol": "SOLBISCUIT",
-        "priceUsd": "0.0004922",
+        "priceUsd": "0.0004873",
         "priceChange": {
-          "m5": -1.42,
-          "h1": 14.75,
-          "h6": -8.21,
-          "h24": 10.21
+          "m5": -1,
+          "h1": 13.7,
+          "h6": -5.34,
+          "h24": 9.11
         },
         "volume": {
-          "h24": 117136.97,
-          "h6": 28692.83,
-          "h1": 7953.88,
-          "m5": 131.53
+          "h24": 117189.64,
+          "h6": 27659.14,
+          "h1": 7932.89,
+          "m5": 52.67
         },
         "liquidity": {
-          "usd": 70679.8,
-          "base": 71556509,
-          "quote": 447.173
+          "usd": 69774.49,
+          "base": 71657981,
+          "quote": 446.5411
         },
-        "marketCap": 492243,
-        "fdv": 492243,
+        "marketCap": 487339,
+        "fdv": 487339,
         "dexId": "pumpswap",
         "pairAddress": "HjPYMge9ST7L8WmTqPKx3MKxmnREkcdoADp6L9k9dHfX",
         "pairCreatedAt": 1767521166000,
         "url": "https://dexscreener.com/solana/hjpymge9st7l8wmtqpkx3mkxmnrekcdoadp6l9k9dhfx",
         "txns": {
           "m5": {
-            "buys": 0,
-            "sells": 2
+            "buys": 5,
+            "sells": 1
           },
           "h1": {
-            "buys": 31,
-            "sells": 43
+            "buys": 34,
+            "sells": 44
           },
           "h6": {
-            "buys": 201,
-            "sells": 128
+            "buys": 200,
+            "sells": 125
           },
           "h24": {
-            "buys": 596,
-            "sells": 468
+            "buys": 601,
+            "sells": 469
           }
         }
       }
@@ -1296,7 +1296,7 @@
       "tokenAddress": "2XerStXyhsyTQ5LxsFWstu5BwD9UCRuXf13CkFVqpump",
       "icon": "4f16a272be5da6fc79b8186792b3abad03969501ec525e79b2da000dcf7c223a",
       "header": "https://cdn.dexscreener.com/cms/images/442ac88448d6707c8900b7ed2bdc8330747b55d2e4727ddb6eff840ff3401fe2?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2XerStXyhsyTQ5LxsFWstu5BwD9UCRuXf13CkFVqpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2XerStXyhsyTQ5LxsFWstu5BwD9UCRuXf13CkFVqpump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -1308,46 +1308,46 @@
       "pairData": {
         "name": "zazu",
         "symbol": "zazu",
-        "priceUsd": "0.00005803",
+        "priceUsd": "0.00005567",
         "priceChange": {
-          "m5": 119,
-          "h1": 73.54,
-          "h6": 73.54,
-          "h24": 73.54
+          "m5": -6.07,
+          "h1": 66.49,
+          "h6": 66.49,
+          "h24": 66.49
         },
         "volume": {
-          "h24": 44977.88,
-          "h6": 44977.88,
-          "h1": 44977.88,
-          "m5": 36983.83
+          "h24": 91684.54,
+          "h6": 91684.54,
+          "h1": 91684.54,
+          "m5": 26228.8
         },
         "liquidity": {
-          "usd": 18085.72,
-          "base": 153666352,
-          "quote": 115.3916
+          "usd": 17620.59,
+          "base": 157310535,
+          "quote": 113.9501
         },
-        "marketCap": 57854,
-        "fdv": 57854,
+        "marketCap": 55505,
+        "fdv": 55505,
         "dexId": "pumpswap",
         "pairAddress": "2E25QdbRDzJpyUxjJt1cmJjGkqtCVh5xjCu2WX1ZT1LP",
         "pairCreatedAt": 1770343436000,
         "url": "https://dexscreener.com/solana/2e25qdbrdzjpyuxjjt1cmjjgkqtcvh5xjcu2wx1zt1lp",
         "txns": {
           "m5": {
-            "buys": 537,
-            "sells": 484
+            "buys": 475,
+            "sells": 357
           },
           "h1": {
-            "buys": 701,
-            "sells": 576
+            "buys": 1473,
+            "sells": 1177
           },
           "h6": {
-            "buys": 701,
-            "sells": 576
+            "buys": 1473,
+            "sells": 1177
           },
           "h24": {
-            "buys": 701,
-            "sells": 576
+            "buys": 1473,
+            "sells": 1177
           }
         }
       }
@@ -1359,7 +1359,7 @@
       "description": "ber",
       "icon": "490254d74bdd475b16f1945959cc442bec35c0fc2557e58182bba1727b30f6c6",
       "header": "https://cdn.dexscreener.com/cms/images/0279bf485e0854f005821c2ee714942cd2b3e939c6bab8c652a679058e8c48f1?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/G8XfMyCLW82Hq2duaf3Kw9hQXf9ntLsPvSx8qZhZpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/G8XfMyCLW82Hq2duaf3Kw9hQXf9ntLsPvSx8qZhZpump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -1371,46 +1371,46 @@
       "pairData": {
         "name": "ber",
         "symbol": "ber",
-        "priceUsd": "0.0003992",
+        "priceUsd": "0.0003603",
         "priceChange": {
-          "m5": -3.94,
-          "h1": 590,
-          "h6": 1106,
-          "h24": 1106
+          "m5": -8.28,
+          "h1": 525,
+          "h6": 989,
+          "h24": 989
         },
         "volume": {
-          "h24": 1113524.06,
-          "h6": 1113524.06,
-          "h1": 575764.23,
-          "m5": 32094.16
+          "h24": 1167724.83,
+          "h6": 1167724.83,
+          "h1": 621685.97,
+          "m5": 33586.84
         },
         "liquidity": {
-          "usd": 50908.33,
-          "base": 63816207,
-          "quote": 319.9939
+          "usd": 47954.43,
+          "base": 66495716,
+          "quote": 308.4874
         },
-        "marketCap": 399246,
-        "fdv": 399246,
+        "marketCap": 360374,
+        "fdv": 360374,
         "dexId": "pumpswap",
         "pairAddress": "EywKgXxCcBP649LJQ6YgBNVDM2D3MCTrkTiAjT6Yj94q",
         "pairCreatedAt": 1770335325000,
         "url": "https://dexscreener.com/solana/eywkgxxccbp649ljq6ygbnvdm2d3mctrktiajt6yj94q",
         "txns": {
           "m5": {
-            "buys": 326,
-            "sells": 161
+            "buys": 302,
+            "sells": 159
           },
           "h1": {
-            "buys": 3849,
-            "sells": 3050
+            "buys": 4144,
+            "sells": 3214
           },
           "h6": {
-            "buys": 10975,
-            "sells": 8113
+            "buys": 11401,
+            "sells": 8364
           },
           "h24": {
-            "buys": 10975,
-            "sells": 8113
+            "buys": 11401,
+            "sells": 8364
           }
         }
       }
@@ -1422,7 +1422,7 @@
       "description": "$HAPPY farmed me.\n$SAD farmed me.\nSo I became $MAD.",
       "icon": "fe40b5b45fba5474c9255d37f76846b0e0e8aee5436a483d8f8df0ea234fd99b",
       "header": "https://cdn.dexscreener.com/cms/images/d0bec669485950eb1e855d68468ff6a7b914d6bf187fb5697f79adfcebeaab4a?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fa7ZE9nCEYnrHsnoeHuhEExJpchtrBtKXnWe6CgHpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Fa7ZE9nCEYnrHsnoeHuhEExJpchtrBtKXnWe6CgHpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://mad-coin.vercel.app/"
@@ -1441,22 +1441,22 @@
       "pairData": {
         "name": "Mad Coin",
         "symbol": "$MAD",
-        "priceUsd": "0.000009725",
+        "priceUsd": "0.000008499",
         "priceChange": {
-          "m5": -0.58,
-          "h1": 29.15,
-          "h6": 11.14,
-          "h24": 265
+          "m5": -12.6,
+          "h1": 12.88,
+          "h6": 2.58,
+          "h24": 219
         },
         "volume": {
-          "h24": 97265.87,
-          "h6": 8970.06,
-          "h1": 2656.12,
-          "m5": 8.92
+          "h24": 97540.8,
+          "h6": 7371.67,
+          "h1": 2931.05,
+          "m5": 274.93
         },
         "liquidity": {},
-        "marketCap": 9725.42,
-        "fdv": 9725.42,
+        "marketCap": 8499.88,
+        "fdv": 8499.88,
         "dexId": "pumpfun",
         "pairAddress": "9TAQ9df5kMfDVsDWQuQXM8YsTzKG5h36yVugk8gRzcLZ",
         "pairCreatedAt": 1770258444000,
@@ -1464,19 +1464,19 @@
         "txns": {
           "m5": {
             "buys": 0,
-            "sells": 1
+            "sells": 7
           },
           "h1": {
             "buys": 52,
-            "sells": 29
+            "sells": 36
           },
           "h6": {
-            "buys": 163,
-            "sells": 123
+            "buys": 137,
+            "sells": 108
           },
           "h24": {
             "buys": 1571,
-            "sells": 1137
+            "sells": 1144
           }
         }
       }
@@ -1488,7 +1488,7 @@
       "description": "The king trout is the big trouts king.",
       "icon": "76ee7ad460bf8477bfd5cd90992fe78094fadc6fbcdab6148a8d8507b4674165",
       "header": "https://cdn.dexscreener.com/cms/images/76e1ecf9bc3c1ccd09b3c0af8f4e850c182d9a7253cdf85a97cff6ae90df6dfc?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A8Ga8xePXLtC5AyEJjKDJtUZENxcNtGmm16oN6nVpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A8Ga8xePXLtC5AyEJjKDJtUZENxcNtGmm16oN6nVpump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -1500,42 +1500,42 @@
       "pairData": {
         "name": "THE KING TROUT",
         "symbol": "KINGTROUT",
-        "priceUsd": "0.00002088",
+        "priceUsd": "0.00001825",
         "priceChange": {
-          "m5": 6.43,
-          "h1": 135,
-          "h6": 891,
-          "h24": 891
+          "m5": -10.66,
+          "h1": 84.39,
+          "h6": 766,
+          "h24": 766
         },
         "volume": {
-          "h24": 50920.92,
-          "h6": 50920.92,
-          "h1": 24382.26,
-          "m5": 1378.43
+          "h24": 52006.87,
+          "h6": 52006.87,
+          "h1": 22353.76,
+          "m5": 988.3
         },
         "liquidity": {},
-        "marketCap": 20880.83,
-        "fdv": 20880.83,
+        "marketCap": 18254.22,
+        "fdv": 18254.22,
         "dexId": "pumpfun",
         "pairAddress": "FfGMXJCZXeUEYtMGwidH2XEmNAUMnU5J5qu3NcySKmUz",
         "pairCreatedAt": 1770337998000,
         "url": "https://dexscreener.com/solana/ffgmxjczxeueytmgwidh2xemnaumnu5j5qu3ncyskmuz",
         "txns": {
           "m5": {
-            "buys": 34,
-            "sells": 17
+            "buys": 18,
+            "sells": 11
           },
           "h1": {
-            "buys": 488,
-            "sells": 264
+            "buys": 454,
+            "sells": 249
           },
           "h6": {
-            "buys": 1023,
-            "sells": 596
+            "buys": 1044,
+            "sells": 610
           },
           "h24": {
-            "buys": 1023,
-            "sells": 596
+            "buys": 1044,
+            "sells": 610
           }
         }
       }
@@ -1546,7 +1546,7 @@
       "tokenAddress": "GaD2EiqiQoxbJKcPJqDcQyMQTJzVL81uEqxwxhmEpump",
       "icon": "b9b2eb12ce076c26a3cf296085123ab4417fb04afac938c74ced28f4ca48d133",
       "header": "https://cdn.dexscreener.com/cms/images/fcec0f724f4ab9f5352399bf261ac583f4a298aa0a86b750b2a8faa706bd9f94?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GaD2EiqiQoxbJKcPJqDcQyMQTJzVL81uEqxwxhmEpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GaD2EiqiQoxbJKcPJqDcQyMQTJzVL81uEqxwxhmEpump?timestamp=1770344100000",
       "links": [
         {
           "url": "https://knowyourmeme.com/memes/wagie"
@@ -1561,46 +1561,46 @@
       "pairData": {
         "name": "wagie",
         "symbol": "wagie",
-        "priceUsd": "0.00001091",
+        "priceUsd": "0.000006155",
         "priceChange": {
-          "m5": 29.12,
-          "h1": -66.36,
-          "h6": -66.36,
-          "h24": -66.36
+          "m5": -38.08,
+          "h1": -60.57,
+          "h6": -81.02,
+          "h24": -81.02
         },
         "volume": {
-          "h24": 70912.41,
-          "h6": 70912.41,
-          "h1": 70912.41,
-          "m5": 955.71
+          "h24": 73263.3,
+          "h6": 73263.3,
+          "h1": 48600.27,
+          "m5": 2164.16
         },
         "liquidity": {
-          "usd": 7821.44,
-          "base": 358413419,
-          "quote": 49.2211
+          "usd": 5813.34,
+          "base": 470193724,
+          "quote": 37.5246
         },
-        "marketCap": 10911,
-        "fdv": 10911,
+        "marketCap": 6156,
+        "fdv": 6156,
         "dexId": "pumpswap",
         "pairAddress": "41u6EZfAtR9r8z6uwkbUimaBbNDxwzdBzL8GWoEBEvLR",
         "pairCreatedAt": 1770340264000,
         "url": "https://dexscreener.com/solana/41u6ezfatr9r8z6uwkbuimabbndxwzdbzl8gwoebevlr",
         "txns": {
           "m5": {
-            "buys": 25,
-            "sells": 18
+            "buys": 29,
+            "sells": 25
           },
           "h1": {
-            "buys": 1012,
-            "sells": 837
+            "buys": 720,
+            "sells": 573
           },
           "h6": {
-            "buys": 1012,
-            "sells": 837
+            "buys": 1042,
+            "sells": 871
           },
           "h24": {
-            "buys": 1012,
-            "sells": 837
+            "buys": 1042,
+            "sells": 871
           }
         }
       }
@@ -1612,7 +1612,7 @@
       "description": "The Small Trout",
       "icon": "e572c82f35936f0b7c6cd4558cfbd1515fefb48de78ad8fef235ea2632b4003e",
       "header": "https://cdn.dexscreener.com/cms/images/b4819569796ce0d54880b94e07e55b671f24a1a8c8c1b96fb31592b9e48f864d?width=900&height=300&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/B3wcgFhUei9TH65sU3U59PRh5zWLq1YfPRfsj413pump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/B3wcgFhUei9TH65sU3U59PRh5zWLq1YfPRfsj413pump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -1624,46 +1624,46 @@
       "pairData": {
         "name": "The Small Trout",
         "symbol": "SmallTrout",
-        "priceUsd": "0.00001650",
+        "priceUsd": "0.00001683",
         "priceChange": {
-          "m5": 4.52,
-          "h1": -38.62,
-          "h6": -50.29,
-          "h24": -50.29
+          "m5": -9.14,
+          "h1": -34.42,
+          "h6": -49.29,
+          "h24": -49.29
         },
         "volume": {
-          "h24": 192217.11,
-          "h6": 192217.11,
-          "h1": 12326.81,
-          "m5": 937.65
+          "h24": 192830.25,
+          "h6": 192830.25,
+          "h1": 10998.05,
+          "m5": 253.94
         },
         "liquidity": {
-          "usd": 9778.13,
-          "base": 294658905,
-          "quote": 61.7968
+          "usd": 9755.58,
+          "base": 288056835,
+          "quote": 63.2146
         },
-        "marketCap": 16502,
-        "fdv": 16502,
+        "marketCap": 16834,
+        "fdv": 16834,
         "dexId": "pumpswap",
         "pairAddress": "3cRBvCyySYntDtg9trwqNnhCCeQXYeNmt7x1X8nxDMCu",
         "pairCreatedAt": 1770334654000,
         "url": "https://dexscreener.com/solana/3crbvcyysyntdtg9trwqnnhcceqxyenmt7x1x8nxdmcu",
         "txns": {
           "m5": {
-            "buys": 19,
-            "sells": 8
+            "buys": 4,
+            "sells": 6
           },
           "h1": {
-            "buys": 207,
-            "sells": 139
+            "buys": 194,
+            "sells": 129
           },
           "h6": {
-            "buys": 2759,
-            "sells": 2240
+            "buys": 2768,
+            "sells": 2249
           },
           "h24": {
-            "buys": 2759,
-            "sells": 2240
+            "buys": 2768,
+            "sells": 2249
           }
         }
       }
@@ -1671,12 +1671,87 @@
   ],
   "latestProfiles": [
     {
+      "url": "https://dexscreener.com/solana/2smeh3ssbwrhwnawdntcrxuzjjkinufjiobnrconpump",
+      "chainId": "solana",
+      "tokenAddress": "2Smeh3sSbWrhwnAWDNTCrxUzJjkiNufjiobnRConpump",
+      "icon": "https://cdn.dexscreener.com/cms/images/999c2c2ae33e2ce861f38e6bdcc40d7fd63b45ea8a8ee7fb58c6a201c3b14cb5?width=64&height=64&fit=crop&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/86014167e95bbaaec1989464bea481552ba1c20e45cdac2dd1ebb686f8948646?width=600&height=200&fit=crop&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2Smeh3sSbWrhwnAWDNTCrxUzJjkiNufjiobnRConpump?timestamp=1770344100000",
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/i/communities/2019126733748744662"
+        }
+      ],
+      "cto": false
+    },
+    {
+      "url": "https://dexscreener.com/solana/9jfp3wdkxmsfjqzx5af94y5scqvvqkbsnnhmgisxpump",
+      "chainId": "solana",
+      "tokenAddress": "9jFP3WdkXMsfjQZx5af94Y5scQVVqKbsNNHmGisxpump",
+      "icon": "https://cdn.dexscreener.com/cms/images/13a93a0fe8f37a978c7aaa47fb1e8aed6adbd9d6ddc2be3d3f257aafc6f0cc8b?width=64&height=64&fit=crop&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/5855e7368bf7591520d0b3af97e5f9b77dc3435e8523d844d037c34b60e4d799?width=600&height=200&fit=crop&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9jFP3WdkXMsfjQZx5af94Y5scQVVqKbsNNHmGisxpump?timestamp=1770344100000",
+      "cto": false
+    },
+    {
+      "url": "https://dexscreener.com/solana/bycsantsdtiqqpiag2v1xrygj1p9pcnrevzbbc3upump",
+      "chainId": "solana",
+      "tokenAddress": "BycsANTSdtiqqPiaG2V1XRyGj1p9pCNrevZbBc3Upump",
+      "icon": "https://cdn.dexscreener.com/cms/images/347e91d0ea27de7d740e658a460ce346a9cba062946b66a3db9b85c7d59e00cd?width=64&height=64&fit=crop&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/19d92cc698f79c71347dcceee12ddbde2df98b929bcbbe043d81207d63eb00e5?width=600&height=200&fit=crop&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BycsANTSdtiqqPiaG2V1XRyGj1p9pCNrevZbBc3Upump?timestamp=1770344100000",
+      "description": "The Black Trout",
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/blacktroutsol"
+        },
+        {
+          "type": "telegram",
+          "url": "https://t.me/blacktroutsol"
+        }
+      ],
+      "cto": false
+    },
+    {
+      "url": "https://dexscreener.com/solana/fga61n7ksrxebp98efvevwkynu8rn4gkkkcbr1qcpump",
+      "chainId": "solana",
+      "tokenAddress": "FGa61N7KsRXEBp98EFVEvWkYNU8rn4gKKkCBR1qcpump",
+      "icon": "https://cdn.dexscreener.com/cms/images/8100c556f26ee28c80d379b1ba6023210c31f34bc45e0d72f4a694cdb5d6be62?width=64&height=64&fit=crop&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/3623fcf91575e687f824756edf3fe7354fd18c376c82a0e780656410dac41225?width=600&height=200&fit=crop&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FGa61N7KsRXEBp98EFVEvWkYNU8rn4gKKkCBR1qcpump?timestamp=1770344100000",
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/i/communities/2019589883203915837"
+        }
+      ],
+      "cto": false
+    },
+    {
+      "url": "https://dexscreener.com/solana/5sq9bsfwybmg6gbar2hvexgbj7swdwsjcaqf82mmpump",
+      "chainId": "solana",
+      "tokenAddress": "5Sq9bSFWybMg6gbAr2HVexgBJ7swdWsjcaQf82mMpump",
+      "icon": "https://cdn.dexscreener.com/cms/images/7d6b76b3989dfa7b1df2eb9a38f211e50ddd0e560aba4751c395fdbd6feb5220?width=64&height=64&fit=crop&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/ecc76b84dce0659a99a017585e59ecf6e7fb25223d02f02809251e45b699fdd2?width=600&height=200&fit=crop&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5Sq9bSFWybMg6gbAr2HVexgBJ7swdWsjcaQf82mMpump?timestamp=1770344100000",
+      "description": "Bear Coin, in the bear market, this time on Solana.\n\nWe hit $15M last time.",
+      "links": [
+        {
+          "type": "twitter",
+          "url": "https://x.com/BearCoinAvax"
+        }
+      ],
+      "cto": false
+    },
+    {
       "url": "https://dexscreener.com/solana/7qy4vwpqywrqdrsu1bfx6srh3kuiqsvkrp3nzg9tpump",
       "chainId": "solana",
       "tokenAddress": "7QY4VWpQYWRqDRSu1bfx6sRh3KUiQsvKrP3nzG9Tpump",
       "icon": "https://cdn.dexscreener.com/cms/images/40fbc97c499c214e47a6bdba361661d908576b25ea24fe3e9c52a64ff04d64c2?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/018a45b9f117d0817798d8dab5d81d8065711560578339d6f9f05a45d400587d?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7QY4VWpQYWRqDRSu1bfx6sRh3KUiQsvKrP3nzG9Tpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7QY4VWpQYWRqDRSu1bfx6sRh3KUiQsvKrP3nzG9Tpump?timestamp=1770344100000",
       "description": "be happy it happened.",
       "links": [
         {
@@ -1692,7 +1767,7 @@
       "tokenAddress": "6YFDEqebg6seMQrdtwxbfCSDcZenybJwooWEZfY8pump",
       "icon": "https://cdn.dexscreener.com/cms/images/3672149a56d4bd3b2865d931bbd161988a628dde48da7bbda8f8d4e571ce0c0d?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/b69f30b09aa165f51330c5f4d880f1f8fbd89a7b545ada6361abe87201b9cf36?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6YFDEqebg6seMQrdtwxbfCSDcZenybJwooWEZfY8pump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6YFDEqebg6seMQrdtwxbfCSDcZenybJwooWEZfY8pump?timestamp=1770344100000",
       "description": "RICHU is the official mascot of Jingumae Nursery in Shibuya, Tokyo💋 Son of the JINGU Project owner, his catchphrase is \"Love you Mama, thank you Papa, let's all play together!\" Special move: flying kisses😘 RICHU Coin is Japan's first initiative channeling meme coin proceeds into real childcare support. Funding nursery operations, supporting mothers, and investing in children's futures through Web3. Holder benefits: JINGU Project discount, art event access, original merch YURU MEME PROJECT 2026 × Jingumae Nursery Collab Vol.2🎨",
       "links": [
         {
@@ -1716,7 +1791,7 @@
       "tokenAddress": "A8sdJBY6UGErXW2gNVT6s13Qn4FJwGyRp63Y5mZBpump",
       "icon": "https://cdn.dexscreener.com/cms/images/432628561ac83334ad29ce72accde4227092f7a04d6c6dd3786686413a458c0e?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/9681a4e99db7ce1f49cc9e68671fc0222a6a092f5be41262c4a63b2c6dc2c322?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A8sdJBY6UGErXW2gNVT6s13Qn4FJwGyRp63Y5mZBpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A8sdJBY6UGErXW2gNVT6s13Qn4FJwGyRp63Y5mZBpump?timestamp=1770344100000",
       "description": "$FSBD – For Sale By Degen Craigslist but Solana-pilled. Hold tokens → unlock tiers: Free → Bronze (cheap fees) → Silver (priority) → Gold (zero fees + perks) List meme coins, rugs, gigs, and more. Launch meme coin per post. Rug or be rugged. 🐸",
       "links": [
         {
@@ -1748,7 +1823,7 @@
       "tokenAddress": "CM5ysRdo5WgSghrwjSTzBxuuM5TGvmQzdFc9gcCYmJPV",
       "icon": "https://cdn.dexscreener.com/cms/images/9d5f5f4bdc67211038bbc98a7ee478c056b3fd4055c12b5b0af732e4b27ca899?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/fb5f5631e1d36c3562a0ee0a1ed304ed77ba07fae3b3291889f7b83579bf48df?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CM5ysRdo5WgSghrwjSTzBxuuM5TGvmQzdFc9gcCYmJPV?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CM5ysRdo5WgSghrwjSTzBxuuM5TGvmQzdFc9gcCYmJPV?timestamp=1770344100000",
       "description": "$REKT — The most honest token in crypto. No fake promises. No roadmap to nowhere. Just a community of degens who embraced the crash and get rewarded for it. Hold $REKT, earn automatic SOL airdrops. Get Rekt. Stay Rekt. Earn SOL.",
       "links": [
         {
@@ -1768,7 +1843,7 @@
       "tokenAddress": "AxNsyZWHRr63rVxHVZbrjwtbvkLBxsBNpue6sMG6pump",
       "icon": "https://cdn.dexscreener.com/cms/images/caa94a4902eaab46988b9f60dc0983c14dcc05e544b579d915793245c9a6d30b?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/e6ca85895238484391fec11259a7d66f7ee598dffe2f5660f055a6f87a1a51b0?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AxNsyZWHRr63rVxHVZbrjwtbvkLBxsBNpue6sMG6pump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AxNsyZWHRr63rVxHVZbrjwtbvkLBxsBNpue6sMG6pump?timestamp=1770344100000",
       "description": "The last trencher",
       "links": [
         {
@@ -1788,7 +1863,7 @@
       "tokenAddress": "3dTYgetCbwA5eYrFygyFxYqyK1UpDVpZh9vDHAtJpump",
       "icon": "https://cdn.dexscreener.com/cms/images/7f6954d2995353e5765c361138cb268abec66d795bbedee7ceb339a3473ef5d9?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/082da0f3cb3449daa1a2890f8532613b3db2066f308e1b03e907e5fd8eea620b?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3dTYgetCbwA5eYrFygyFxYqyK1UpDVpZh9vDHAtJpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3dTYgetCbwA5eYrFygyFxYqyK1UpDVpZh9vDHAtJpump?timestamp=1770344100000",
       "description": "Just a ButtFawking unicorn in a dark world 🦄",
       "links": [
         {
@@ -1808,7 +1883,7 @@
       "tokenAddress": "F1hA7MtnyRkwGvvXuuziAZBDCFKexfshLe7xQrwRpump",
       "icon": "https://cdn.dexscreener.com/cms/images/d137102b9d9c2aec1d1022cdad0617b44b50c3829dfe27852b044958c0147eaf?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/452b537191bdd406ac1b8238abceaa664af0bac02f0d640a3ce8ab447789e4c3?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F1hA7MtnyRkwGvvXuuziAZBDCFKexfshLe7xQrwRpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F1hA7MtnyRkwGvvXuuziAZBDCFKexfshLe7xQrwRpump?timestamp=1770344100000",
       "description": "From the lightless depths, the $WhiteTrout rise beside the $WhiteWhale, United, they descend toward the deepest reaches of the sea.",
       "links": [
         {
@@ -1828,7 +1903,7 @@
       "tokenAddress": "ArohESkGuWoEUGgBvoc35DbZ5XAe2fD3PJVwXKr5pump",
       "icon": "https://cdn.dexscreener.com/cms/images/594037383521bbe5c016223203baabd27f2c1ecc726495f13579a61372b6dfba?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/fe4b677276d1c75ffc35059b540cb305562d1f185afd72e6073acecd4314f304?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ArohESkGuWoEUGgBvoc35DbZ5XAe2fD3PJVwXKr5pump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/ArohESkGuWoEUGgBvoc35DbZ5XAe2fD3PJVwXKr5pump?timestamp=1770344100000",
       "description": "we will look back at this and laugh",
       "links": [
         {
@@ -1844,7 +1919,7 @@
       "tokenAddress": "2XerStXyhsyTQ5LxsFWstu5BwD9UCRuXf13CkFVqpump",
       "icon": "https://cdn.dexscreener.com/cms/images/4f16a272be5da6fc79b8186792b3abad03969501ec525e79b2da000dcf7c223a?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/442ac88448d6707c8900b7ed2bdc8330747b55d2e4727ddb6eff840ff3401fe2?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2XerStXyhsyTQ5LxsFWstu5BwD9UCRuXf13CkFVqpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2XerStXyhsyTQ5LxsFWstu5BwD9UCRuXf13CkFVqpump?timestamp=1770344100000",
       "links": [
         {
           "type": "twitter",
@@ -1859,7 +1934,7 @@
       "tokenAddress": "424Gi3DG4Ri7Gr8gETAeNPuB5Zf9gdCwy5ytCAAGpump",
       "icon": "https://cdn.dexscreener.com/cms/images/b8d6d222762d202ddb9fb725bbd92f6da79ab1d62fa401f89d41aed9ea6d524e?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/29f07f5e89b5ad7958af3d5d5d330487c08d45960e654f0adc0d24470df54a18?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/424Gi3DG4Ri7Gr8gETAeNPuB5Zf9gdCwy5ytCAAGpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/424Gi3DG4Ri7Gr8gETAeNPuB5Zf9gdCwy5ytCAAGpump?timestamp=1770344100000",
       "links": [
         {
           "label": "Website",
@@ -1878,7 +1953,7 @@
       "tokenAddress": "8KaNT7g5HM5jWn8RJ4ErV9xyez9NHgg3sbRunbxvpump",
       "icon": "https://cdn.dexscreener.com/cms/images/5c778d5f92f0a24b851336463b7d9d8e413ac26b24d1bdce397236b98283b274?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/50c263517792e8e1f7ab1fb9dd3b06a2c44382b8774e833c8692b43468a3cd62?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8KaNT7g5HM5jWn8RJ4ErV9xyez9NHgg3sbRunbxvpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8KaNT7g5HM5jWn8RJ4ErV9xyez9NHgg3sbRunbxvpump?timestamp=1770344100000",
       "description": "Stop refreshing DEX Screener. Let your prawn do it.",
       "links": [
         {
@@ -1898,7 +1973,7 @@
       "tokenAddress": "6BCgvfyz9EdNMDG8YdHPPbXF9qMtbG2jyEZfoNZLpump",
       "icon": "https://cdn.dexscreener.com/cms/images/a0c7f8728604a5453f59441e6ebb246054e8d8d34852c2920bb2bf447a95ae5b?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/d01dafa5998b2068f681c1b297f09f3606b0f6453a73ad77407ca02bac365189?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6BCgvfyz9EdNMDG8YdHPPbXF9qMtbG2jyEZfoNZLpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6BCgvfyz9EdNMDG8YdHPPbXF9qMtbG2jyEZfoNZLpump?timestamp=1770344100000",
       "description": "Meet Trout. he's a fish. mounted on a wall. watches Solana charts all day and has opinions about it.\n\ntalk to him, he talks back. AI agent with a backstory. He posts his own thoughts on X. No filter, no fluff — just a mounted fish who's seen some things.",
       "links": [
         {
@@ -1918,7 +1993,7 @@
       "tokenAddress": "6ukUSPRvPKrMg1L6hNSVydVjQTfoXrghnSt3CWgepump",
       "icon": "https://cdn.dexscreener.com/cms/images/caa70c5dc366dca5cad42e726d043b4cd246f3c15d7da5c293ae71ec067d50d6?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/7ba517e7b3f4616e35a06a9a7d49809fc9eb0a4bf7cbba3d26193cecd88ac51f?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6ukUSPRvPKrMg1L6hNSVydVjQTfoXrghnSt3CWgepump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6ukUSPRvPKrMg1L6hNSVydVjQTfoXrghnSt3CWgepump?timestamp=1770344100000",
       "description": "It Only Gets Better From Here.",
       "links": [
         {
@@ -1934,7 +2009,7 @@
       "tokenAddress": "FbpfohVBxhkrQ65UL3DgYVSU4czLDobDmwFVTecSpump",
       "icon": "https://cdn.dexscreener.com/cms/images/3f5d2bf6e3142dcc44f39c6863c2f601547dc3abb6dfed6afbf2f5320e7c110b?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/397281da8acf21003a46814ee2b28d311c9a482a9baf6b7047e15a1d525050b0?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FbpfohVBxhkrQ65UL3DgYVSU4czLDobDmwFVTecSpump?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FbpfohVBxhkrQ65UL3DgYVSU4czLDobDmwFVTecSpump?timestamp=1770344100000",
       "description": "How OGs Persist Everytime: HOPE.",
       "links": [
         {
@@ -1954,95 +2029,12 @@
       "tokenAddress": "2fQCuGR6NUeejrGz68z9M7XzvRWtnsD8QxJ6RkEzbonk",
       "icon": "https://cdn.dexscreener.com/cms/images/989fde3d040d55686d31dae5bdd004ae3b867250c7969326b4abf355d91897a8?width=64&height=64&fit=crop&quality=95&format=auto",
       "header": "https://cdn.dexscreener.com/cms/images/f3fcdf27e598ef510e61d58a670ee3db05bc5f20ce792b921480d4fd53b97e43?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2fQCuGR6NUeejrGz68z9M7XzvRWtnsD8QxJ6RkEzbonk?timestamp=1770343800000",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2fQCuGR6NUeejrGz68z9M7XzvRWtnsD8QxJ6RkEzbonk?timestamp=1770344100000",
       "description": "Better version of SOL on USD1",
       "links": [
         {
           "type": "twitter",
           "url": "https://x.com/i/communities/2019579346747547680/"
-        }
-      ],
-      "cto": false
-    },
-    {
-      "url": "https://dexscreener.com/solana/dag3jrpiyzvkmpsb1vzxuyhdtmqfswy9xh4dpzuxpump",
-      "chainId": "solana",
-      "tokenAddress": "DAg3JrPiyzvkMPsB1VZxuYHDTMqFSwy9xH4dpzuxpump",
-      "icon": "https://cdn.dexscreener.com/cms/images/7897a6f46610dd79fab997b203b255736cf5bf424988bc9401cc305089a77037?width=64&height=64&fit=crop&quality=95&format=auto",
-      "header": "https://cdn.dexscreener.com/cms/images/38fc53b37ecc292bec9e226add7f2f87fb056e6bce2bf5dd308079396133538f?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DAg3JrPiyzvkMPsB1VZxuYHDTMqFSwy9xH4dpzuxpump?timestamp=1770343800000",
-      "description": "OBOB is BOBO inverted. Markets don’t crash forever. When despair peaks, OBOB appears. Inverse psychology, inverse cycle.",
-      "links": [
-        {
-          "type": "twitter",
-          "url": "https://x.com/i/communities/2019582055320006901"
-        }
-      ],
-      "cto": false
-    },
-    {
-      "url": "https://dexscreener.com/solana/9pdzffmaytdaxwn5ubsv3dpgvd2dbjhr3ujgy5uhpump",
-      "chainId": "solana",
-      "tokenAddress": "9PdZffMAYTDaXWn5UbSv3dPgVD2DBjHR3UJgY5uhpump",
-      "icon": "https://cdn.dexscreener.com/cms/images/76cb9109c3ecb0a9a4e515b40b7db605b208d492cc34ad328419a2c6be1a2646?width=64&height=64&fit=crop&quality=95&format=auto",
-      "header": "https://cdn.dexscreener.com/cms/images/f7c71804ad4ec6bf2e7b2a9db285966b9fe8036da7d0f404c4a87fcf7c111a06?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9PdZffMAYTDaXWn5UbSv3dPgVD2DBjHR3UJgY5uhpump?timestamp=1770343800000",
-      "description": "Our mission is simple: to physically represent and highlight authentic, belief driven communities through quality collectibles, turning digital culture into something you can actually hold. Each collectible serves as a visible marker of loyalty and community alignment, helping these communities extend their presence beyond the screen.",
-      "links": [
-        {
-          "label": "Website",
-          "url": "https://pumpedcollectibles.com/"
-        },
-        {
-          "type": "twitter",
-          "url": "https://x.com/pumpedcollect"
-        }
-      ],
-      "cto": false
-    },
-    {
-      "url": "https://dexscreener.com/solana/f11b3zstvzj7xozq5lsqftytnqqt65vnquyscey7pump",
-      "chainId": "solana",
-      "tokenAddress": "F11B3zstVzJ7xozQ5LsqFtYtNQQT65VNQUyScEy7pump",
-      "icon": "https://cdn.dexscreener.com/cms/images/7d1b97ea6458b3270b5b2806c33efcffdbfd2987c56b0b452fc21ba6fc651991?width=64&height=64&fit=crop&quality=95&format=auto",
-      "header": "https://cdn.dexscreener.com/cms/images/d2c59434bfa4eeb85c981e12402e4595fab98520ae5360ce91e05007fa1b4794?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F11B3zstVzJ7xozQ5LsqFtYtNQQT65VNQUyScEy7pump?timestamp=1770343800000",
-      "description": "POLYMARKET FILES TRADEMARK FOR $POLY TOKEN",
-      "links": [
-        {
-          "type": "twitter",
-          "url": "https://x.com/i/communities/2019575303019065609"
-        }
-      ],
-      "cto": false
-    },
-    {
-      "url": "https://dexscreener.com/solana/2n67nupghub9vpuqjm5gndfn1yj469eppfpuhczkpump",
-      "chainId": "solana",
-      "tokenAddress": "2N67nUpgHUb9VpUqJm5gnDfN1Yj469eppfPuHCZkpump",
-      "icon": "https://cdn.dexscreener.com/cms/images/4e4ea714843f5a57b402b6b4f4fbd6eae4ac3b849e703870abafa7cf7667aca3?width=64&height=64&fit=crop&quality=95&format=auto",
-      "header": "https://cdn.dexscreener.com/cms/images/29fd5e31919f6b22b833404febcc5860b37bd14219a21742c31f62067746c74b?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2N67nUpgHUb9VpUqJm5gnDfN1Yj469eppfPuHCZkpump?timestamp=1770343800000",
-      "links": [
-        {
-          "type": "twitter",
-          "url": "https://x.com/i/communities/2019576283324371285"
-        }
-      ],
-      "cto": false
-    },
-    {
-      "url": "https://dexscreener.com/solana/fhzbegeurdfytzavzesvugd82fs79eyfqxekhydpump",
-      "chainId": "solana",
-      "tokenAddress": "fHzbEgeuRDfYTZAvZesVuGd82fs79EYfqxeKhyDpump",
-      "icon": "https://cdn.dexscreener.com/cms/images/31a3edc7e46dfee1eda8a614f40b88efa4e4724f8501dddf01a7370281632fe4?width=64&height=64&fit=crop&quality=95&format=auto",
-      "header": "https://cdn.dexscreener.com/cms/images/03709a2469f39dba49b2a09a4ad8dd0ffc61412fedbb093c37ddea77eb6449f0?width=600&height=200&fit=crop&quality=95&format=auto",
-      "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/fHzbEgeuRDfYTZAvZesVuGd82fs79EYfqxeKhyDpump?timestamp=1770343800000",
-      "description": "The Crypto Crash of 2026, often called the Great Crypto Crash, was a historic market collapse that began on February 5, 2026. Within hours, digital assets plunged in value, triggering widespread liquidations and sending shockwaves across the global financial landscape. The event became a defining reminder of the crypto market’s extreme volatility and the speed at which fortunes can rise and fall.",
-      "links": [
-        {
-          "type": "twitter",
-          "url": "https://x.com/i/communities/2019571031535386764"
         }
       ],
       "cto": false
@@ -2054,43 +2046,43 @@
       "name": "Dogecoin",
       "symbol": "DOGE",
       "image": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
-      "currentPrice": 0.090534,
+      "currentPrice": 0.08989,
       "marketCap": 15273238210,
       "marketCapRank": 10,
-      "totalVolume": 4326949496,
-      "priceChange1h": 2.7739088438956103,
-      "priceChange24h": -12.397997658547014,
-      "priceChange7d": -22.532575595584845,
+      "totalVolume": 4326212146,
+      "priceChange1h": 1.1427495554538127,
+      "priceChange24h": -12.892731147652961,
+      "priceChange7d": -23.083981655514048,
       "ath": 0.731578,
-      "athChangePercentage": -87.62482
+      "athChangePercentage": -87.7129
     },
     {
       "id": "shiba-inu",
       "name": "Shiba Inu",
       "symbol": "SHIB",
       "image": "https://coin-images.coingecko.com/coins/images/11939/large/shiba.png?1696511800",
-      "currentPrice": 5.82e-06,
+      "currentPrice": 5.78e-06,
       "marketCap": 3428393980,
       "marketCapRank": 30,
-      "totalVolume": 364755595,
-      "priceChange1h": 3.0848712076606764,
-      "priceChange24h": -11.905929257578807,
-      "priceChange7d": -19.856850772273145,
+      "totalVolume": 375626846,
+      "priceChange1h": 1.2734386291718156,
+      "priceChange24h": -12.274572569388841,
+      "priceChange7d": -20.397392988299416,
       "ath": 8.616e-05,
-      "athChangePercentage": -93.24681
+      "athChangePercentage": -93.29235
     },
     {
       "id": "memecore",
       "name": "MemeCore",
       "symbol": "M",
       "image": "https://coin-images.coingecko.com/coins/images/53247/large/square-bg-transparent.png?1752637478",
-      "currentPrice": 1.51,
+      "currentPrice": 1.5,
       "marketCap": 2629538421,
       "marketCapRank": 35,
-      "totalVolume": 13975832,
-      "priceChange1h": 3.37100605533394,
-      "priceChange24h": 2.576174808119872,
-      "priceChange7d": -0.41271760066716145,
+      "totalVolume": 13925736,
+      "priceChange1h": -0.05142600874741434,
+      "priceChange24h": 1.6261017292565116,
+      "priceChange7d": -1.2395367012924403,
       "ath": 2.96,
       "athChangePercentage": -48.59036
     },
@@ -2099,43 +2091,43 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "image": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
-      "currentPrice": 3.53e-06,
+      "currentPrice": 3.5e-06,
       "marketCap": 1482351914,
       "marketCapRank": 50,
-      "totalVolume": 917474633,
-      "priceChange1h": 2.8669316985386164,
-      "priceChange24h": -14.115355923909648,
-      "priceChange7d": -25.51739045779152,
+      "totalVolume": 914482227,
+      "priceChange1h": 1.496255975422392,
+      "priceChange24h": -14.326388704183682,
+      "priceChange7d": -25.99594366256335,
       "ath": 2.803e-05,
-      "athChangePercentage": -87.41681
+      "athChangePercentage": -87.49766
     },
     {
       "id": "pump-fun",
       "name": "Pump.fun",
       "symbol": "PUMP",
       "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
-      "currentPrice": 0.00197562,
+      "currentPrice": 0.00195636,
       "marketCap": 1165854019,
       "marketCapRank": 60,
-      "totalVolume": 361821913,
-      "priceChange1h": 5.484649504115259,
-      "priceChange24h": -12.878296110267417,
-      "priceChange7d": -28.0684601007816,
+      "totalVolume": 361277368,
+      "priceChange1h": 2.093529237692281,
+      "priceChange24h": -13.820645474388108,
+      "priceChange7d": -28.76965974968082,
       "ath": 0.00881908,
-      "athChangePercentage": -77.59834
+      "athChangePercentage": -77.81671
     },
     {
       "id": "official-trump",
       "name": "Official Trump",
       "symbol": "TRUMP",
       "image": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "currentPrice": 3.45,
+      "currentPrice": 3.44,
       "marketCap": 802078516,
       "marketCapRank": 75,
-      "totalVolume": 595269829,
-      "priceChange1h": 2.8355875617693838,
-      "priceChange24h": -16.6147673825462,
-      "priceChange7d": -24.571391826192205,
+      "totalVolume": 595461774,
+      "priceChange1h": 2.6374225259487147,
+      "priceChange24h": -16.692797252845352,
+      "priceChange7d": -24.71674338390745,
       "ath": 73.43,
       "athChangePercentage": -95.31816
     },
@@ -2144,13 +2136,13 @@
       "name": "Bonk",
       "symbol": "BONK",
       "image": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
-      "currentPrice": 5.95e-06,
+      "currentPrice": 5.89e-06,
       "marketCap": 524071707,
-      "marketCapRank": 95,
-      "totalVolume": 218813167,
-      "priceChange1h": 3.543054735006876,
-      "priceChange24h": -14.07079226847813,
-      "priceChange7d": -26.238081929089464,
+      "marketCapRank": 96,
+      "totalVolume": 217970416,
+      "priceChange1h": 0.9857857605475362,
+      "priceChange24h": -14.683941620260828,
+      "priceChange7d": -26.979030214930113,
       "ath": 5.825e-05,
       "athChangePercentage": -89.81429
     },
@@ -2159,13 +2151,13 @@
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
       "image": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "currentPrice": 0.0062315,
+      "currentPrice": 0.00616989,
       "marketCap": 392575388,
       "marketCapRank": 110,
-      "totalVolume": 339876894,
-      "priceChange1h": 3.5032347533517525,
-      "priceChange24h": -13.69224515422868,
-      "priceChange7d": -29.125217792597745,
+      "totalVolume": 338934568,
+      "priceChange1h": 1.5965230415602167,
+      "priceChange24h": -14.280734996853333,
+      "priceChange7d": -29.82598910328999,
       "ath": 0.068447,
       "athChangePercentage": -90.87614
     },
@@ -2174,13 +2166,13 @@
       "name": "FLOKI",
       "symbol": "FLOKI",
       "image": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318",
-      "currentPrice": 2.929e-05,
+      "currentPrice": 2.904e-05,
       "marketCap": 282736076,
       "marketCapRank": 135,
-      "totalVolume": 101623546,
-      "priceChange1h": 2.497707891436113,
-      "priceChange24h": -13.318497128715535,
-      "priceChange7d": -25.156088233480638,
+      "totalVolume": 101314879,
+      "priceChange1h": 1.6264184304144997,
+      "priceChange24h": -13.899273919370755,
+      "priceChange7d": -25.792304524413407,
       "ath": 0.00034495,
       "athChangePercentage": -91.57449
     },
@@ -2189,13 +2181,13 @@
       "name": "SPX6900",
       "symbol": "SPX",
       "image": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
-      "currentPrice": 0.25656,
+      "currentPrice": 0.254442,
       "marketCap": 238806242,
       "marketCapRank": 152,
-      "totalVolume": 31360530,
-      "priceChange1h": 1.2106714712330677,
-      "priceChange24h": -15.740733342765456,
-      "priceChange7d": -24.073950058960662,
+      "totalVolume": 31277150,
+      "priceChange1h": 0.3753011376819119,
+      "priceChange24h": -16.50328677963901,
+      "priceChange7d": -24.700626759574146,
       "ath": 2.27,
       "athChangePercentage": -88.67182
     },
@@ -2204,13 +2196,13 @@
       "name": "Binance-Peg Dogecoin",
       "symbol": "DOGE",
       "image": "https://coin-images.coingecko.com/coins/images/15768/large/dogecoin.png?1696515392",
-      "currentPrice": 0.090518,
-      "marketCap": 233393402,
+      "currentPrice": 0.089802,
+      "marketCap": 230997193,
       "marketCapRank": null,
-      "totalVolume": 10340439,
-      "priceChange1h": 2.7230246150907353,
-      "priceChange24h": -12.336774257096398,
-      "priceChange7d": -22.60910427895718,
+      "totalVolume": 10295196,
+      "priceChange1h": 1.9098499783370502,
+      "priceChange24h": -13.05820452972301,
+      "priceChange7d": -23.2217450549839,
       "ath": 0.480585,
       "athChangePercentage": -81.21307
     },
@@ -2219,13 +2211,13 @@
       "name": "dogwifhat",
       "symbol": "WIF",
       "image": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
-      "currentPrice": 0.21388,
+      "currentPrice": 0.212509,
       "marketCap": 213647642,
       "marketCapRank": 165,
-      "totalVolume": 222326080,
-      "priceChange1h": 3.0115539248932435,
-      "priceChange24h": -13.642064916749097,
-      "priceChange7d": -26.236114117941757,
+      "totalVolume": 221567093,
+      "priceChange1h": 1.2518251956614612,
+      "priceChange24h": -14.065392701398896,
+      "priceChange7d": -26.70895802629693,
       "ath": 4.83,
       "athChangePercentage": -95.57369
     },
@@ -2237,10 +2229,10 @@
       "currentPrice": 1.01e-06,
       "marketCap": 211501620,
       "marketCapRank": 168,
-      "totalVolume": 22649851,
-      "priceChange1h": 0.9425540489966598,
-      "priceChange24h": -0.04148871413233402,
-      "priceChange7d": -7.185777415297211,
+      "totalVolume": 22749065,
+      "priceChange1h": 0.928028135886092,
+      "priceChange24h": -0.06708387584828844,
+      "priceChange7d": -7.199133638996841,
       "ath": 6.89e-06,
       "athChangePercentage": -85.37827
     },
@@ -2249,13 +2241,13 @@
       "name": "Fartcoin",
       "symbol": "FARTCOIN",
       "image": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
-      "currentPrice": 0.187818,
+      "currentPrice": 0.186502,
       "marketCap": 188131920,
       "marketCapRank": 180,
-      "totalVolume": 119972412,
-      "priceChange1h": 2.3513469955776407,
-      "priceChange24h": -13.62620660327474,
-      "priceChange7d": -28.288609852424862,
+      "totalVolume": 120067821,
+      "priceChange1h": 1.6192862572331594,
+      "priceChange24h": -14.217115497316845,
+      "priceChange7d": -28.790990412603822,
       "ath": 2.48,
       "athChangePercentage": -92.4007
     },
@@ -2264,13 +2256,13 @@
       "name": "pippin",
       "symbol": "PIPPIN",
       "image": "https://coin-images.coingecko.com/coins/images/51589/large/pippin_logo.png?1731570163",
-      "currentPrice": 0.176698,
+      "currentPrice": 0.175994,
       "marketCap": 175820894,
-      "marketCapRank": 189,
-      "totalVolume": 26547854,
-      "priceChange1h": 3.17587656353181,
-      "priceChange24h": -2.7413676453547886,
-      "priceChange7d": -40.40663755901999,
+      "marketCapRank": 188,
+      "totalVolume": 26442779,
+      "priceChange1h": -0.6464639149704845,
+      "priceChange24h": -3.28913019127006,
+      "priceChange7d": -40.64427546280565,
       "ath": 0.550189,
       "athChangePercentage": -68.18147
     },
@@ -2279,13 +2271,13 @@
       "name": "BUILDon",
       "symbol": "B",
       "image": "https://coin-images.coingecko.com/coins/images/55974/large/T7asvmCb_400x400.jpg?1747902862",
-      "currentPrice": 0.134469,
+      "currentPrice": 0.133465,
       "marketCap": 134171444,
-      "marketCapRank": 217,
-      "totalVolume": 13134872,
-      "priceChange1h": -1.076982242919447,
-      "priceChange24h": -28.727845070986486,
-      "priceChange7d": -30.576735769661557,
+      "marketCapRank": 218,
+      "totalVolume": 13123446,
+      "priceChange1h": -1.8154602151176302,
+      "priceChange24h": -29.225121828256935,
+      "priceChange7d": -31.094992819988242,
       "ath": 0.731588,
       "athChangePercentage": -81.62237
     },
@@ -2294,13 +2286,13 @@
       "name": "The White Whale",
       "symbol": "WHITEWHALE",
       "image": "https://coin-images.coingecko.com/coins/images/71239/large/whitewhale_400x400.jpg?1766580039",
-      "currentPrice": 0.127586,
+      "currentPrice": 0.127524,
       "marketCap": 127223199,
       "marketCapRank": 224,
-      "totalVolume": 15236117,
-      "priceChange1h": 4.271764310629629,
-      "priceChange24h": 10.849524685241718,
-      "priceChange7d": 37.52358142074693,
+      "totalVolume": 15213952,
+      "priceChange1h": 3.0855046990784585,
+      "priceChange24h": 10.82586931077138,
+      "priceChange7d": 37.4566359295775,
       "ath": 0.197852,
       "athChangePercentage": -35.74495
     },
@@ -2309,13 +2301,13 @@
       "name": "Loaded Lions",
       "symbol": "LION",
       "image": "https://coin-images.coingecko.com/coins/images/54686/large/_LION_Token_Artwork.png?1741015702",
-      "currentPrice": 0.00412965,
+      "currentPrice": 0.00405974,
       "marketCap": 126491492,
       "marketCapRank": 227,
-      "totalVolume": 1039437,
-      "priceChange1h": 3.3920043424925863,
-      "priceChange24h": -11.320741272156466,
-      "priceChange7d": -28.44860470718529,
+      "totalVolume": 1023396,
+      "priceChange1h": 0.5159920606371151,
+      "priceChange24h": -12.53925645145954,
+      "priceChange7d": -29.65987917630407,
       "ath": 0.03159196,
       "athChangePercentage": -86.98633
     },
@@ -2324,58 +2316,58 @@
       "name": "Melania Meme",
       "symbol": "MELANIA",
       "image": "https://coin-images.coingecko.com/coins/images/53775/large/melania-meme.png?1737329885",
-      "currentPrice": 0.1158,
+      "currentPrice": 0.115759,
       "marketCap": 110329465,
-      "marketCapRank": 245,
-      "totalVolume": 42933063,
-      "priceChange1h": 1.8140436249242473,
-      "priceChange24h": -7.225291611247675,
-      "priceChange7d": -17.12489967682752,
+      "marketCapRank": 246,
+      "totalVolume": 42932449,
+      "priceChange1h": 2.4434267910845944,
+      "priceChange24h": -7.130778137902579,
+      "priceChange7d": -17.153699379313693,
       "ath": 13.05,
       "athChangePercentage": -99.11278
-    },
-    {
-      "id": "cheems-token",
-      "name": "Cheems Token",
-      "symbol": "CHEEMS",
-      "image": "https://coin-images.coingecko.com/coins/images/30376/large/Hg4_Lhbg_400x400.jpg?1696529270",
-      "currentPrice": 5.22867e-07,
-      "marketCap": 106530588,
-      "marketCapRank": 254,
-      "totalVolume": 1613156,
-      "priceChange1h": 2.211297319634631,
-      "priceChange24h": -7.615519305991582,
-      "priceChange7d": -40.18347274739324,
-      "ath": 2.16e-06,
-      "athChangePercentage": -75.89531
     },
     {
       "id": "bianrensheng",
       "name": "币安人生 (BinanceLife)",
       "symbol": "币安人生",
       "image": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
-      "currentPrice": 0.106864,
-      "marketCap": 105647071,
-      "marketCapRank": 257,
-      "totalVolume": 50124254,
-      "priceChange1h": 8.157941684355656,
-      "priceChange24h": -19.553190285714606,
-      "priceChange7d": -33.650017420482484,
+      "currentPrice": 0.104834,
+      "marketCap": 106880709,
+      "marketCapRank": 252,
+      "totalVolume": 49935316,
+      "priceChange1h": 4.671674707968382,
+      "priceChange24h": -20.892973641603632,
+      "priceChange7d": -34.9101616683139,
       "ath": 0.510761,
       "athChangePercentage": -79.14309
+    },
+    {
+      "id": "cheems-token",
+      "name": "Cheems Token",
+      "symbol": "CHEEMS",
+      "image": "https://coin-images.coingecko.com/coins/images/30376/large/Hg4_Lhbg_400x400.jpg?1696529270",
+      "currentPrice": 5.2194e-07,
+      "marketCap": 106530588,
+      "marketCapRank": 254,
+      "totalVolume": 1613223,
+      "priceChange1h": 1.2044398304193589,
+      "priceChange24h": -7.64390436543279,
+      "priceChange7d": -40.28957893293335,
+      "ath": 2.16e-06,
+      "athChangePercentage": -75.89531
     },
     {
       "id": "coco-2",
       "name": "coco",
       "symbol": "COCO",
       "image": "https://coin-images.coingecko.com/coins/images/71124/large/%E6%9C%AA%E5%91%BD%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1_%2821%29.png?1765893957",
-      "currentPrice": 0.102983,
+      "currentPrice": 0.102511,
       "marketCap": 103302997,
       "marketCapRank": 261,
-      "totalVolume": 685947,
-      "priceChange1h": 0.5393965151191542,
-      "priceChange24h": -4.062164407101514,
-      "priceChange7d": -3.8400999744458755,
+      "totalVolume": 686129,
+      "priceChange1h": 0.011546184441283967,
+      "priceChange24h": -4.147384132217113,
+      "priceChange7d": -4.280726358054346,
       "ath": 0.157542,
       "athChangePercentage": -34.32912
     },
@@ -2384,13 +2376,13 @@
       "name": "Ribbita by Virtuals",
       "symbol": "TIBBIR",
       "image": "https://coin-images.coingecko.com/coins/images/54970/large/Untitled_design.png?1742941268",
-      "currentPrice": 0.098599,
+      "currentPrice": 0.099401,
       "marketCap": 97523953,
       "marketCapRank": 272,
-      "totalVolume": 7605435,
-      "priceChange1h": 9.910678516832952,
-      "priceChange24h": -21.15234547060792,
-      "priceChange7d": -45.39198074112411,
+      "totalVolume": 7610884,
+      "priceChange1h": 4.355314919452127,
+      "priceChange24h": -20.515142565733825,
+      "priceChange7d": -44.94767796744839,
       "ath": 0.440027,
       "athChangePercentage": -77.86023
     },
@@ -2399,13 +2391,13 @@
       "name": "Dog (Bitcoin)",
       "symbol": "DOG",
       "image": "https://coin-images.coingecko.com/coins/images/37352/large/DOGGOTOTHEMOON.png?1714096969",
-      "currentPrice": 0.00093643,
-      "marketCap": 94077736,
-      "marketCapRank": 276,
-      "totalVolume": 6037751,
-      "priceChange1h": 2.406736239417169,
-      "priceChange24h": -7.251823559166208,
-      "priceChange7d": -16.79339313327428,
+      "currentPrice": 0.0009263,
+      "marketCap": 93642856,
+      "marketCapRank": 279,
+      "totalVolume": 6084584,
+      "priceChange1h": 1.2991616614008579,
+      "priceChange24h": -8.105012642134634,
+      "priceChange7d": -17.693309739083563,
       "ath": 0.0099237,
       "athChangePercentage": -90.56646
     },
@@ -2414,13 +2406,13 @@
       "name": "Rekt",
       "symbol": "REKT",
       "image": "https://coin-images.coingecko.com/coins/images/51727/large/rektcion_trans_200px.png?1731910587",
-      "currentPrice": 1.87793e-07,
+      "currentPrice": 1.89197e-07,
       "marketCap": 78250367,
-      "marketCapRank": 317,
-      "totalVolume": 1498193,
-      "priceChange1h": 1.8452213093118282,
-      "priceChange24h": -14.517950315764928,
-      "priceChange7d": -31.76825493766643,
+      "marketCapRank": 316,
+      "totalVolume": 1538944,
+      "priceChange1h": 2.7952923954672193,
+      "priceChange24h": -13.797890560184026,
+      "priceChange7d": -31.258069299732117,
       "ath": 1.41e-06,
       "athChangePercentage": -86.81869
     },
@@ -2429,13 +2421,13 @@
       "name": "Luxxcoin",
       "symbol": "LUX",
       "image": "https://coin-images.coingecko.com/coins/images/70524/large/200X200_RED.png?1762411816",
-      "currentPrice": 0.00076283,
-      "marketCap": 76430137,
-      "marketCapRank": 323,
-      "totalVolume": 2534822,
-      "priceChange1h": 1.755028949443592,
-      "priceChange24h": -13.11042306953006,
-      "priceChange7d": -7.934050915568641,
+      "currentPrice": 0.00075883,
+      "marketCap": 76347018,
+      "marketCapRank": 322,
+      "totalVolume": 2335618,
+      "priceChange1h": 1.2225507889649565,
+      "priceChange24h": -13.34088470907346,
+      "priceChange7d": -8.41582668348233,
       "ath": 0.00138489,
       "athChangePercentage": -44.75762
     },
@@ -2444,13 +2436,13 @@
       "name": "Toshi",
       "symbol": "TOSHI",
       "image": "https://coin-images.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476",
-      "currentPrice": 0.00017579,
+      "currentPrice": 0.00017396,
       "marketCap": 74002678,
       "marketCapRank": 330,
-      "totalVolume": 16659235,
-      "priceChange1h": 2.012334138514232,
-      "priceChange24h": -11.533853124064365,
-      "priceChange7d": -30.32325326265426,
+      "totalVolume": 16573884,
+      "priceChange1h": -0.4617516142625495,
+      "priceChange24h": -12.337382861753367,
+      "priceChange7d": -31.048958668201877,
       "ath": 0.00226012,
       "athChangePercentage": -92.19021
     },
@@ -2459,13 +2451,13 @@
       "name": "AgentFun.AI",
       "symbol": "AGENTFUN",
       "image": "https://coin-images.coingecko.com/coins/images/52133/large/AIFUN_%282%29.png?1732639482",
-      "currentPrice": 0.717882,
+      "currentPrice": 0.71184,
       "marketCap": 71729022,
       "marketCapRank": 336,
-      "totalVolume": 198.28,
-      "priceChange1h": 1.3341922997049953,
-      "priceChange24h": -9.659564895527842,
-      "priceChange7d": -16.40675142877671,
+      "totalVolume": 196.61,
+      "priceChange1h": 0.48811855797350134,
+      "priceChange24h": -9.7469241653754,
+      "priceChange7d": -17.110274669972156,
       "ath": 25.25,
       "athChangePercentage": -97.14799
     },
@@ -2474,13 +2466,13 @@
       "name": "Turbo",
       "symbol": "TURBO",
       "image": "https://coin-images.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
-      "currentPrice": 0.00103352,
+      "currentPrice": 0.00102501,
       "marketCap": 71291960,
-      "marketCapRank": 338,
-      "totalVolume": 24404119,
-      "priceChange1h": 3.732509901913833,
-      "priceChange24h": -13.591014386423716,
-      "priceChange7d": -26.657072198300348,
+      "marketCapRank": 337,
+      "totalVolume": 24301901,
+      "priceChange1h": 0.726836097034279,
+      "priceChange24h": -14.042619558280137,
+      "priceChange7d": -27.261154817675887,
       "ath": 0.01431669,
       "athChangePercentage": -92.79629
     },
@@ -2489,13 +2481,13 @@
       "name": "Brett",
       "symbol": "BRETT",
       "image": "https://coin-images.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
-      "currentPrice": 0.00712145,
+      "currentPrice": 0.00706639,
       "marketCap": 70607814,
-      "marketCapRank": 340,
-      "totalVolume": 25078767,
-      "priceChange1h": 3.8321687806341607,
-      "priceChange24h": -17.15416323475428,
-      "priceChange7d": -38.97970986673289,
+      "marketCapRank": 342,
+      "totalVolume": 25009118,
+      "priceChange1h": 1.7501146519131303,
+      "priceChange24h": -17.432050593236493,
+      "priceChange7d": -39.45149525940388,
       "ath": 0.234204,
       "athChangePercentage": -96.95238
     }
