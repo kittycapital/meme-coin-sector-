@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "timestamp": "2026-02-05 12:35:04 KST",
+    "date": "2026-02-05",
+    "chains": [
+      "solana",
+      "base",
+      "ethereum"
+    ],
+    "sources": [
+      "DexScreener",
+      "CoinGecko"
+    ]
+  },
+  "topBoosts": [],
+  "latestBoosts": [],
+  "latestProfiles": [],
+  "trending": [],
+  "memeCoins": []
+}
