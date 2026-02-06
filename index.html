@@ -30,6 +30,15 @@
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
+  /* iframe 삽입용 - 스크롤바 제거 */
+  html, body {
+    overflow: hidden;
+    overflow-x: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
+
   body {
     font-family: 'Noto Sans KR', sans-serif;
     background: var(--bg-primary);
@@ -426,65 +435,6 @@
     margin-left: auto;
   }
 
-  /* Trending grid */
-  .trending-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 10px;
-  }
-
-  .trending-card {
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 14px;
-    transition: all 0.25s ease;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .trending-card:hover {
-    border-color: rgba(0,232,123,0.3);
-    background: var(--bg-card-hover);
-    transform: translateY(-1px);
-  }
-
-  .trending-rank {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 20px;
-    font-weight: 700;
-    color: var(--text-dim);
-    width: 28px;
-    text-align: center;
-    flex-shrink: 0;
-  }
-
-  .trending-rank.top3 { color: var(--accent-yellow); }
-
-  .trending-icon {
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    overflow: hidden;
-    flex-shrink: 0;
-    background: var(--bg-card-hover);
-  }
-
-  .trending-icon img { width: 100%; height: 100%; object-fit: cover; }
-
-  .trending-info { flex: 1; min-width: 0; }
-  .trending-name { font-size: 13px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .trending-symbol { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--text-secondary); }
-
-  .trending-change {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12px;
-    font-weight: 600;
-    flex-shrink: 0;
-  }
-
   /* Loading / Error / Empty */
   .loading-msg, .error-msg, .empty-msg {
     text-align: center;
@@ -500,13 +450,19 @@
     color: var(--accent-red);
   }
 
-  /* Table wrapper */
+  /* Table wrapper - 가로 스크롤만 허용 */
   .table-wrapper {
     overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
     border: 1px solid var(--border);
     border-radius: var(--radius);
     background: var(--bg-card);
   }
+
+  .table-wrapper::-webkit-scrollbar { height: 4px; }
+  .table-wrapper::-webkit-scrollbar-track { background: var(--bg-card); }
+  .table-wrapper::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
 
   /* Footer */
   footer {
@@ -528,14 +484,85 @@
 
   footer a { color: var(--accent-fire); text-decoration: none; }
 
-  /* Responsive */
+  /* Responsive - Mobile & imweb optimized */
   @media (max-width: 768px) {
-    .container { padding: 0 16px; }
-    h1 { font-size: 24px; }
-    .token-grid { grid-template-columns: 1fr; }
-    .trending-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
-    .card-stats { grid-template-columns: repeat(2, 1fr); }
+    .container { padding: 0 12px; }
+    header { padding: 20px 0 8px; }
+    h1 { font-size: 22px; }
+    .subtitle { font-size: 12px; }
+    .status-bar { gap: 8px; margin: 12px 0 20px; }
+    .chain-tag { font-size: 9px; padding: 2px 6px; }
+    .update-time { font-size: 10px; }
+    .section { margin-bottom: 28px; }
+    .section-header { flex-wrap: wrap; gap: 6px; padding-bottom: 10px; margin-bottom: 12px; }
+    .section-icon { font-size: 16px; }
+    .section-title { font-size: 15px; }
+    .section-badge { font-size: 9px; padding: 2px 8px; }
+    .section-sub { font-size: 10px; width: 100%; margin-left: 0; margin-top: 4px; }
+    .tab-row { padding: 3px; }
+    .tab { font-size: 11px; padding: 7px 12px; }
+    .token-grid { grid-template-columns: 1fr; gap: 10px; }
+    .token-card { padding: 14px; }
+    .card-top { gap: 10px; }
+    .token-icon { width: 36px; height: 36px; font-size: 14px; }
+    .token-name { font-size: 13px; }
+    .boost-amount { font-size: 11px; padding: 3px 8px; }
+    .card-stats { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+    .stat { padding: 6px 4px; }
+    .stat-label { font-size: 9px; }
+    .stat-value { font-size: 12px; }
+    .token-desc { font-size: 10px; }
+    .card-footer { gap: 4px; padding-top: 8px; margin-top: 8px; }
+    .dex-badge { font-size: 9px; }
+    .social-link { font-size: 8px; }
     .meme-table { font-size: 11px; }
+    .meme-table thead th { font-size: 9px; padding: 8px 6px; }
+    .meme-table td { padding: 8px 6px; font-size: 11px; }
+    .coin-cell { gap: 8px; }
+    .coin-icon { width: 24px; height: 24px; }
+    .coin-name { font-size: 12px; }
+    .coin-symbol { font-size: 10px; }
+    footer { padding: 24px 0; font-size: 10px; }
+    .disclaimer { font-size: 9px; }
+  }
+
+  /* Extra small screens */
+  @media (max-width: 400px) {
+    .container { padding: 0 8px; }
+    h1 { font-size: 18px; }
+    .section-title { font-size: 14px; }
+    .card-stats { grid-template-columns: repeat(2, 1fr); }
+    .meme-table thead th:nth-child(5),
+    .meme-table thead th:nth-child(6),
+    .meme-table td:nth-child(5),
+    .meme-table td:nth-child(6) { display: none; }
+  }
+
+  /* imweb iframe optimization */
+  @media (max-width: 500px) {
+    body { font-size: 13px; }
+    .table-wrapper { border-radius: 8px; }
+    .meme-table thead th:nth-child(7),
+    .meme-table thead th:nth-child(8),
+    .meme-table td:nth-child(7),
+    .meme-table td:nth-child(8) { display: none; }
+  }
+
+  /* Embed mode - URL에 ?embed=1 추가시 더 컴팩트 */
+  body.embed-mode header { padding: 12px 0 4px; }
+  body.embed-mode h1 { font-size: 18px; }
+  body.embed-mode .subtitle { display: none; }
+  body.embed-mode .status-bar { margin: 8px 0 16px; }
+  body.embed-mode .section { margin-bottom: 20px; }
+  body.embed-mode footer { padding: 16px 0; }
+  body.embed-mode .disclaimer { display: none; }
+
+  /* Touch-friendly tap targets */
+  @media (pointer: coarse) {
+    .token-card { min-height: 44px; }
+    .tab { min-height: 40px; }
+    .meme-table tbody tr { min-height: 48px; }
+    .social-link { padding: 4px 8px; font-size: 10px; }
   }
 </style>
 </head>
@@ -600,20 +627,7 @@
     </div>
   </div>
 
-  <!-- 3. CoinGecko Trending -->
-  <div class="section" id="trending-section">
-    <div class="section-header">
-      <span class="section-icon">📈</span>
-      <span class="section-title">트렌딩 코인</span>
-      <span class="section-badge">TRENDING</span>
-      <span class="section-sub">24시간 인기 검색</span>
-    </div>
-    <div class="trending-grid" id="trending-grid">
-      <div class="loading-msg">로딩 중...</div>
-    </div>
-  </div>
-
-  <!-- 4. Latest Profiles -->
+  <!-- 3. Latest Profiles -->
   <div class="section" id="profiles-section">
     <div class="section-header">
       <span class="section-icon">🪙</span>
@@ -658,7 +672,7 @@ async function loadData() {
 }
 
 function showAllErrors() {
-  ['meme-tbody', 'boost-grid', 'trending-grid', 'profiles-grid'].forEach(id => {
+  ['meme-tbody', 'boost-grid', 'profiles-grid'].forEach(id => {
     const el = document.getElementById(id);
     if (id === 'meme-tbody') {
       el.innerHTML = '<tr><td colspan="8" class="error-msg">data/latest.json 파일을 찾을 수 없습니다. GitHub Actions를 실행해 주세요.</td></tr>';
@@ -728,7 +742,6 @@ function render() {
 
   renderMemeTable();
   renderBoosts();
-  renderTrending();
   renderProfiles();
 }
 
@@ -824,29 +837,6 @@ function renderBoosts() {
   }).join('');
 }
 
-// Trending
-function renderTrending() {
-  const grid = document.getElementById('trending-grid');
-  const coins = DATA.trending || [];
-  if (!coins.length) {
-    grid.innerHTML = '<div class="empty-msg">트렌딩 데이터 없음</div>';
-    return;
-  }
-  grid.innerHTML = coins.map((c, i) => `
-    <div class="trending-card" onclick="window.open('https://www.coingecko.com/en/coins/${c.id}','_blank')">
-      <span class="trending-rank ${i < 3 ? 'top3' : ''}">${i + 1}</span>
-      <div class="trending-icon">
-        ${c.thumb ? `<img src="${c.thumb}" alt="" onerror="this.parentElement.textContent='${(c.symbol||'?')[0]}'">` : (c.symbol||'?')[0]}
-      </div>
-      <div class="trending-info">
-        <div class="trending-name">${c.name}</div>
-        <div class="trending-symbol">${c.symbol}</div>
-      </div>
-      <div class="trending-change ${pctCls(c.priceChangePercentage24h)}">${fmtPct(c.priceChangePercentage24h)}</div>
-    </div>
-  `).join('');
-}
-
 // Profiles
 function renderProfiles() {
   const grid = document.getElementById('profiles-grid');
@@ -882,6 +872,25 @@ function renderProfiles() {
 
 // Init
 loadData();
+
+// Embed mode 감지 (?embed=1)
+if (new URLSearchParams(window.location.search).get('embed') === '1') {
+  document.body.classList.add('embed-mode');
+}
+
+// iframe 높이 자동 조절 (imweb용)
+function sendHeight() {
+  const height = document.documentElement.scrollHeight;
+  window.parent.postMessage({ type: 'resize', height: height }, '*');
+}
+
+// 로드 완료 후 높이 전송
+window.addEventListener('load', () => setTimeout(sendHeight, 500));
+window.addEventListener('resize', sendHeight);
+
+// MutationObserver로 콘텐츠 변경 감지
+const observer = new MutationObserver(() => setTimeout(sendHeight, 100));
+observer.observe(document.body, { childList: true, subtree: true });
 </script>
 
 </body>
